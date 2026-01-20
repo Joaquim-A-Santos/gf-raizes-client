@@ -1,9 +1,59 @@
 {
   "files": [
     {
+      "path": "data/db/C_Enchant.ini",
+      "hash": "82a357d89dff1171ff14ac2107b3297ac779ebdb24e025a891ab6845167833a9",
+      "size": 6671703
+    },
+    {
+      "path": "data/db/C_Item.ini",
+      "hash": "0362f0183c09e14ad3d3996116ab3ff4ee946dd6b54b7d672f970d6ac1f6996d",
+      "size": 10283254
+    },
+    {
+      "path": "data/db/C_ItemMall.ini",
+      "hash": "fdf62103f967e8e846fdab2a74e94d796b2218edbf3d336a7eca81b784f1b3a2",
+      "size": 5350275
+    },
+    {
       "path": "data/db/RideList.ini",
       "hash": "5f9b9e2b86f2bed738eb7c264a0b31ed0a67b5f20963cd3f7d42549412912b28",
       "size": 33843
+    },
+    {
+      "path": "ride/animation/R260.kf",
+      "hash": "49b0e6072074f71f3f052bde4a4233b060695e2d576f7e2cce38aac7c8cf431c",
+      "size": 361031
+    },
+    {
+      "path": "ride/model/R260.nif",
+      "hash": "bdc582298750eb3e1c8849d2e98dc33458fdfda072097b0a79b559bbb4e59c92",
+      "size": 233999
+    },
+    {
+      "path": "ride/R260.kfm",
+      "hash": "6d0f7320d0f76eac05ad24f73c4211a76cb8f6e39948a26f9cb45eac956bebb1",
+      "size": 1165
+    },
+    {
+      "path": "ride/texture/R23101.dds",
+      "hash": "1d545dc79e380e294d690f81707d9dd79588e94ce73998b220add15f35260a4e",
+      "size": 262272
+    },
+    {
+      "path": "UI/itemicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
+    },
+    {
+      "path": "UI/skillicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
+    },
+    {
+      "path": "UI/uiicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
     }
   ]
 }
