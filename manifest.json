@@ -16,6 +16,11 @@
       "size": 5350275
     },
     {
+      "path": "data/db/C_Mission.ini",
+      "hash": "1000168a50057e9563232be52eee9ee20c505ee736bc8a203a06a037c23a327a",
+      "size": 1559994
+    },
+    {
       "path": "data/db/RideList.ini",
       "hash": "5f9b9e2b86f2bed738eb7c264a0b31ed0a67b5f20963cd3f7d42549412912b28",
       "size": 33843
