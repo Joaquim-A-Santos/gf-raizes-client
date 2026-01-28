@@ -17,6 +17,7 @@ const IGNORE_FILES = [
     '.DS_Store',
     'Thumbs.db',
     'desktop.ini',
+	'Compiler.zip',
     COMPILER_DIR_NAME // Ignore the compiler folder itself
 ];
 

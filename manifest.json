@@ -1,11 +1,6 @@
 {
   "files": [
     {
-      "path": "Compiler.zip",
-      "hash": "7159d5611556063028326bcdc12b5acf066831092a6fd6e7abcfe3401a508c9d",
-      "size": 2455
-    },
-    {
       "path": "data/db/C_Enchant.ini",
       "hash": "82a357d89dff1171ff14ac2107b3297ac779ebdb24e025a891ab6845167833a9",
       "size": 6671703
