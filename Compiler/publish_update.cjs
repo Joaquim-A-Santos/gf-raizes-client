@@ -18,6 +18,7 @@ const IGNORE_FILES = [
     'Thumbs.db',
     'desktop.ini',
 	'Compiler.zip',
+    'Compiler',
     COMPILER_DIR_NAME // Ignore the compiler folder itself
 ];
 
