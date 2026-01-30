@@ -1,0 +1,844 @@
+{
+  "files": [
+    {
+      "path": "data/db/C_Enchant.ini",
+      "hash": "23aed1f9501f71ad747f44850c3cf630dec9118967ff712fcd3eb84e99da9584",
+      "size": 6606741
+    },
+    {
+      "path": "data/db/C_Item.ini",
+      "hash": "37c028ed34224dd99e17331c6100244d9405760e9bdfb58108267d10c1d8efe6",
+      "size": 10189334
+    },
+    {
+      "path": "data/db/C_ItemMall.ini",
+      "hash": "b7a76d533942bf12536c5956c4ecae1f6f9327645040abd88c366dad5a2c79bd",
+      "size": 5301205
+    },
+    {
+      "path": "data/db/C_Mission.ini",
+      "hash": "92253f0c3b1e6f5e8970e6f3400a98eab6b0d73aa655a52bb35501342eb759f3",
+      "size": 1554382
+    },
+    {
+      "path": "data/db/C_Store.ini",
+      "hash": "26755ecdfad94398a83541cbc7c76c33a708ed7c465f0393a2853c641da071b4",
+      "size": 265475
+    },
+    {
+      "path": "data/db/RideList.ini",
+      "hash": "ce752fbe769ce7ba0a42f6701d775386cf716f44541d1ad4cbf15bc89cac93cb",
+      "size": 33370
+    },
+    {
+      "path": "data/Translate_EN/T_Achievement.ini",
+      "hash": "6f172864c221182ea734f48eafb35e489b62dd41f892b90c0101cb0d8d136d4c",
+      "size": 463931
+    },
+    {
+      "path": "data/Translate_EN/T_Activity.ini",
+      "hash": "3c0d86b97e012f9e8060cd7bf3ef01048210d6a2443f2b15d28e241177d91c67",
+      "size": 519654
+    },
+    {
+      "path": "data/Translate_EN/T_Battlefield.ini",
+      "hash": "fed5fd398e0f02cfb5880e5a224886d5a16a78956d61d208c4f24a87960cda4d",
+      "size": 1524
+    },
+    {
+      "path": "data/Translate_EN/T_BeastsTower.ini",
+      "hash": "94e9c3e3ce70063da6ad240e40c1e0b483748200375c823159663f23339fdf2a",
+      "size": 702
+    },
+    {
+      "path": "data/Translate_EN/T_Class.ini",
+      "hash": "e6063ca37cb24c22d4a5ff7e2bc5cf5796863aedcde60492183ae51b085b212c",
+      "size": 11392
+    },
+    {
+      "path": "data/Translate_EN/T_Collection.ini",
+      "hash": "2542aed5bbf0f71a5d50e820ea3314192f6bc4430a77486561e03d8a5c4ec834",
+      "size": 403624
+    },
+    {
+      "path": "data/Translate_EN/T_Dialogue.ini",
+      "hash": "481b70c990441448b8980ac3194fb8725a8ca5b738af4e4edcccb120181830d1",
+      "size": 8281178
+    },
+    {
+      "path": "data/Translate_EN/T_DynamicEvent.ini",
+      "hash": "fbefa06bca5e4e034fea4f78d7b26e86f343654e5030040cbea4049b04a16ff1",
+      "size": 10427
+    },
+    {
+      "path": "data/Translate_EN/T_Elf.ini",
+      "hash": "03403278bf4fedd41ac72b9b2fdf73e44380655f191b9f4511fff4e468f0ba0f",
+      "size": 6902
+    },
+    {
+      "path": "data/Translate_EN/T_ElfCollect.ini",
+      "hash": "2baec0b09920264d25d0020da86bf29716064561177fd60f0f0be7f24521a36a",
+      "size": 37165
+    },
+    {
+      "path": "data/Translate_EN/T_ElfKing.ini",
+      "hash": "b756cb6d14032b8c5dc2e2fa00462eb0518895c9baf6fc75dfd216848e28d7d9",
+      "size": 1662
+    },
+    {
+      "path": "data/Translate_EN/T_ElfRacing.ini",
+      "hash": "b4199c0c29ca8f999d4ceca5b2b9dc384a0e3900b55901571a1e3f65ced65277",
+      "size": 182
+    },
+    {
+      "path": "data/Translate_EN/T_ElfTeamFight.ini",
+      "hash": "13bc68568c80b1133d07aa4504b756b539af23cec7c1370edcca4e40c37efaeb",
+      "size": 6967
+    },
+    {
+      "path": "data/Translate_EN/T_ElfTemple.ini",
+      "hash": "cb3ad10ef9840277e1958da9d96fc32a50fbdfa67386f6195b1bfa9a37145241",
+      "size": 261
+    },
+    {
+      "path": "data/Translate_EN/T_ElfTrain.ini",
+      "hash": "ebc58dccb9c55251aff807e385ca65e20d770955e82b1236df815134b79586c4",
+      "size": 99212
+    },
+    {
+      "path": "data/Translate_EN/T_Enchant.ini",
+      "hash": "69e1e28a01e33f8b369ede543a6672dc30923ed5234614b69e9bf6b90e91af98",
+      "size": 2719955
+    },
+    {
+      "path": "data/Translate_EN/T_EquipSet.ini",
+      "hash": "9d21f1cb0bd2c70e68994f421b7f25eb5914d9fe5278fb8a559a19ca957571bf",
+      "size": 19296
+    },
+    {
+      "path": "data/Translate_EN/T_Exam.ini",
+      "hash": "8ea6037c53b7c93620e11d4af30770e1f88eb27a004ad4f83a2d06e8f76bc926",
+      "size": 84912
+    },
+    {
+      "path": "data/Translate_EN/T_FamilyTree.ini",
+      "hash": "032f60f5aa2963f8e6a9a7437ee831319ec4f4a4ed27379a0048aab5d5c9b116",
+      "size": 314
+    },
+    {
+      "path": "data/Translate_EN/T_Festival.ini",
+      "hash": "7144bc566c57cd884beb6e61c9f9f43a565ed5b3e383107933b4e50fd89067a6",
+      "size": 8840
+    },
+    {
+      "path": "data/Translate_EN/T_Item.ini",
+      "hash": "421c525814b7c7f03267c5ec2286f2482fde520ca7687535607936ffa23f14af",
+      "size": 4491428
+    },
+    {
+      "path": "data/Translate_EN/T_ItemCombo.ini",
+      "hash": "6f7e52a09471cc9f6cc6857e43de2c965a32cc6bbebca336137a5e7f3e68ce17",
+      "size": 165568
+    },
+    {
+      "path": "data/Translate_EN/T_ItemMall.ini",
+      "hash": "a7669278a9f35f198898f546fec6fad003b32ff7120c8db8574ec362c0370c5c",
+      "size": 3369273
+    },
+    {
+      "path": "data/Translate_EN/T_MentorshipInstance.ini",
+      "hash": "eb4bb3b7375995837b424fe1f09f2ad40ad1b7a3c27ea1b288b7c7bc8ac5c236",
+      "size": 371
+    },
+    {
+      "path": "data/Translate_EN/T_Mission.ini",
+      "hash": "647d5e2d659f1af61c1b41664a4a651627e0c98561309189289a721369b684dc",
+      "size": 251206
+    },
+    {
+      "path": "data/Translate_EN/T_Monster.ini",
+      "hash": "26de3ceee01036d14b9fd2af9c12180809402f59493e4a142441a44cad18ca27",
+      "size": 220853
+    },
+    {
+      "path": "data/Translate_EN/T_Node.ini",
+      "hash": "fabaa74963b6b4b0f004a174a452e4011222076b548655784a35fe133509d21b",
+      "size": 32109
+    },
+    {
+      "path": "data/Translate_EN/T_Npc.ini",
+      "hash": "c3fedde3c45b03f18e1e9f5d0302efaf2e1f1da5b2cc53ae0204b6c9378fe663",
+      "size": 117074
+    },
+    {
+      "path": "data/Translate_EN/T_PointAbility.ini",
+      "hash": "44ed67328a1c9a634d4d8d68d233d67fa2c43ed3dc4afa2fb74497e2ddaa95f0",
+      "size": 171
+    },
+    {
+      "path": "data/Translate_EN/T_Race.ini",
+      "hash": "c62af1174781034369eed081a13fccd32aa438027daccec80ee652b51a4227c5",
+      "size": 294
+    },
+    {
+      "path": "data/Translate_EN/T_RaceGroup.ini",
+      "hash": "64f3522e908aaaae7663456162cc90ac3af14a0247157f428730f531cfd9c066",
+      "size": 45
+    },
+    {
+      "path": "data/Translate_EN/T_RainbowEvent.ini",
+      "hash": "62b554dcc7d8385d817c2ad963f96977fe5fe2d0b1876a4d1294bd558d933e56",
+      "size": 15563
+    },
+    {
+      "path": "data/Translate_EN/T_RecommendEvents.ini",
+      "hash": "9bb59fc69d1821470bf8f02a55342401b289ba5baa5abf6c4227d67e369c95cc",
+      "size": 339587
+    },
+    {
+      "path": "data/Translate_EN/T_RideCombo.ini",
+      "hash": "367cf12a6396fa828660ce841e03af04f437cb92946ba92c0ffda14ff99f941f",
+      "size": 27962
+    },
+    {
+      "path": "data/Translate_EN/T_Spell.ini",
+      "hash": "0461c672b0800f18cf8116b925163b98a38de767fc9e21bf1f071ce138b067da",
+      "size": 1542632
+    },
+    {
+      "path": "data/Translate_EN/T_TextIndex.ini",
+      "hash": "460952c713fa3b476f265c6d7e0cb3edc09e3831a0bc627248bd2f78f75a869c",
+      "size": 860867
+    },
+    {
+      "path": "data/Translate_EN/T_Title.ini",
+      "hash": "bb5df70025fed43f53752d85da76e3f8ca3567357901c03527517d355481019b",
+      "size": 63250
+    },
+    {
+      "path": "data/Translate_EN/T_VIP.ini",
+      "hash": "1101cf589d216ef79354df75129bce50283d540e7775f9502d3762c5fe600892",
+      "size": 47
+    },
+    {
+      "path": "data/Translate_ES/T_Achievement.ini",
+      "hash": "42ddfc7fe42c0672e6451f14fb65890c682a7904ac854815b48a2e1ea15c96a2",
+      "size": 518316
+    },
+    {
+      "path": "data/Translate_ES/T_Activity.ini",
+      "hash": "75ceecf48c8f7e7834678ec33471b2a84b7580018dd5ff62384ee87216817e71",
+      "size": 471208
+    },
+    {
+      "path": "data/Translate_ES/T_Battlefield.ini",
+      "hash": "8399a30632c4fb3f0b9d98a26ef2d5797490d642c3a55d11de35cf06a59bab2a",
+      "size": 1710
+    },
+    {
+      "path": "data/Translate_ES/T_BeastsTower.ini",
+      "hash": "f01811aafba78ab41887318caebda0aa364fe9354c401b7b684a8f682ac2ddb9",
+      "size": 403
+    },
+    {
+      "path": "data/Translate_ES/T_Class.ini",
+      "hash": "ddca8ee4fdb6e05e38ed493a10d5b0301259a5700d271ffc0968e563fe519813",
+      "size": 11827
+    },
+    {
+      "path": "data/Translate_ES/T_Collection.ini",
+      "hash": "9032870775b1a435eada273aa8709ab582d12f2436b5df9149d054c9390c6d3a",
+      "size": 479484
+    },
+    {
+      "path": "data/Translate_ES/T_Dialogue.ini",
+      "hash": "5a9299463dcb7a582b94039fc5df4707d6652b340c4bdc002426f7836bc91f14",
+      "size": 9123656
+    },
+    {
+      "path": "data/Translate_ES/T_DynamicEvent.ini",
+      "hash": "4895526b13fab067e6e8c43772140beff632308e777e751b1b755e70007fa5bf",
+      "size": 12415
+    },
+    {
+      "path": "data/Translate_ES/T_Elf.ini",
+      "hash": "964ad3d3a4cfdccf843d39e9bea94d981dbe0e427936d4758e39608485caf948",
+      "size": 7429
+    },
+    {
+      "path": "data/Translate_ES/T_ElfCollect.ini",
+      "hash": "2f84952118e3ffdd77eddd26502f69742c9e951846d0c7edd1c0ca912d9e2f50",
+      "size": 41575
+    },
+    {
+      "path": "data/Translate_ES/T_ElfKing.ini",
+      "hash": "121e9b60c27cc9d161b58076f10b9a90232eee50c044c3a136d925ce13693448",
+      "size": 1687
+    },
+    {
+      "path": "data/Translate_ES/T_ElfRacing.ini",
+      "hash": "b747592c74251178778296a873137b9f4d2f170f059186bed1aec8f7645e3d8f",
+      "size": 182
+    },
+    {
+      "path": "data/Translate_ES/T_ElfTeamFight.ini",
+      "hash": "74acda81b2812ff0e4abc6c0ac08c3c90b981ce043c93343bb16151c6c64fb91",
+      "size": 9093
+    },
+    {
+      "path": "data/Translate_ES/T_ElfTemple.ini",
+      "hash": "17ea522aa91cdd4a55f49ba120b6f83b5f59e1a355c33ed9a440ce622a6016a7",
+      "size": 304
+    },
+    {
+      "path": "data/Translate_ES/T_ElfTrain.ini",
+      "hash": "272db3b6761639b0e59ad342de3582a6dcb746d2e14dedbdb97042179fa8d2e8",
+      "size": 109189
+    },
+    {
+      "path": "data/Translate_ES/T_Enchant.ini",
+      "hash": "99653a542476c47e7df985657fcd30b67281630b113c4b703298880d6cb6de86",
+      "size": 3227160
+    },
+    {
+      "path": "data/Translate_ES/T_EquipSet.ini",
+      "hash": "af7a8e70acaa6767f6c540f5fa40eaf26c4e3a42c60ba27a2e0731f1fdea01e7",
+      "size": 25569
+    },
+    {
+      "path": "data/Translate_ES/T_Exam.ini",
+      "hash": "bca18568f14451f726d741f30d0a9a4a210c00d6970794f6b2791bc003796930",
+      "size": 97271
+    },
+    {
+      "path": "data/Translate_ES/T_FamilyTree.ini",
+      "hash": "e1dc08781f83935d786d6fe6f96b6ca54a3e7bd74847f0c6824faa360c8b589c",
+      "size": 1121
+    },
+    {
+      "path": "data/Translate_ES/T_Festival.ini",
+      "hash": "5af2f2061dfcb5dacdae0b8792b7bbc3cc8d3333f644c167b2f4c80eda164d3e",
+      "size": 10376
+    },
+    {
+      "path": "data/Translate_ES/T_Item.ini",
+      "hash": "8643c7dd506ad0ff946e9758b900da1fffff4dd52ab9bf41114d546ecf3dbd9d",
+      "size": 5236260
+    },
+    {
+      "path": "data/Translate_ES/T_ItemCombo.ini",
+      "hash": "d72e5c11c696c5540fd53081be24000235fe59bb68e1943d0a52ea6372b5afbc",
+      "size": 161059
+    },
+    {
+      "path": "data/Translate_ES/T_ItemMall.ini",
+      "hash": "29846674869eb5aa7b60e9167cdb38528abc3cf2280e56d88f059b8a6437eb0b",
+      "size": 3720713
+    },
+    {
+      "path": "data/Translate_ES/T_MentorshipInstance.ini",
+      "hash": "22e95396dbb08782bf395b798a85af392b56ae247befaed8d5db7f7c92682a2e",
+      "size": 448
+    },
+    {
+      "path": "data/Translate_ES/T_Mission.ini",
+      "hash": "e3f99f3faa6cd3e6274f7d37e1f0e5534fab900afef6ce2ac1541485449cb34e",
+      "size": 284391
+    },
+    {
+      "path": "data/Translate_ES/T_Monster.ini",
+      "hash": "f132782444746681ef3483133567e7a5b97f97562966665ab8399b200dd0d36f",
+      "size": 257952
+    },
+    {
+      "path": "data/Translate_ES/T_Node.ini",
+      "hash": "4f209d9bb1132f6b5b9be589de392b01c0c24d4c932229155643b66ab0de416c",
+      "size": 38657
+    },
+    {
+      "path": "data/Translate_ES/T_Npc.ini",
+      "hash": "657f4cf4d1b3cf54f53c9991f63d968b73e60e29413ece2bee2e2db19737ba46",
+      "size": 135913
+    },
+    {
+      "path": "data/Translate_ES/T_PointAbility.ini",
+      "hash": "73aca0ea499af9138418269e397834c4f080bdafeba03fd018c154e5933c5b64",
+      "size": 203
+    },
+    {
+      "path": "data/Translate_ES/T_Race.ini",
+      "hash": "6d2263b51b298b9de2480032b91506d5542d417b8f8e405dffa07c9783f16b5d",
+      "size": 303
+    },
+    {
+      "path": "data/Translate_ES/T_RaceGroup.ini",
+      "hash": "96e6c154b248170ab83f642b2b262cabd4a265b93a8591d85beb1a9a5697bb52",
+      "size": 60
+    },
+    {
+      "path": "data/Translate_ES/T_RainbowEvent.ini",
+      "hash": "8502da279b67a65ff2a21d8138fa1773654bab82b53f9c1be00fecd20e6f7531",
+      "size": 20688
+    },
+    {
+      "path": "data/Translate_ES/T_RecommendEvents.ini",
+      "hash": "873e776cc77c442948c5594b19009447a63e25ad7775a7f2901fd421481d4e26",
+      "size": 371807
+    },
+    {
+      "path": "data/Translate_ES/T_RideCombo.ini",
+      "hash": "cd43b4bba1d02536ba5dc2a242b36d2f7287aec0f74a2a4863d4bd4f22edb2f6",
+      "size": 31216
+    },
+    {
+      "path": "data/Translate_ES/T_Spell.ini",
+      "hash": "d999d7c93f253c7e973f63cacd213e369ed7998ff9ba1c0362c1e9343d5cdf20",
+      "size": 1830779
+    },
+    {
+      "path": "data/Translate_ES/T_TextIndex.ini",
+      "hash": "f773bfff8d3292cc6de2151f900a2b478426a078c374af34403fcb72a39dcb4e",
+      "size": 950339
+    },
+    {
+      "path": "data/Translate_ES/T_Title.ini",
+      "hash": "21e1ca6b4efe74a765366ea33b0d5f9646535b4550da9e8161b50a6bf429cc25",
+      "size": 83446
+    },
+    {
+      "path": "data/Translate_ES/T_VIP.ini",
+      "hash": "4adea718de49757e7c96efd569885ff1a6e3905ccee4ba6585d3b1e252082f08",
+      "size": 43
+    },
+    {
+      "path": "data/Translate_FR/T_Achievement.ini",
+      "hash": "23c83eb6177ef7cd67b1ec6d68ea1f2c6fe83c52b6f1548c7c9944272d9058a7",
+      "size": 530442
+    },
+    {
+      "path": "data/Translate_FR/T_Activity.ini",
+      "hash": "1c2fdd0b756013d0849a163ccf27b61a4513e458d49c8f10f3a1c3ed8fb88251",
+      "size": 463262
+    },
+    {
+      "path": "data/Translate_FR/T_Battlefield.ini",
+      "hash": "e3c8e5f9acaed24095287e3f06efbf736ff06998d9e77e3351dd760613d001bd",
+      "size": 1644
+    },
+    {
+      "path": "data/Translate_FR/T_BeastsTower.ini",
+      "hash": "bf4266d813012859c6935fc1d971cec1b972085eac0bbf12d69edff00cf0521a",
+      "size": 763
+    },
+    {
+      "path": "data/Translate_FR/T_Class.ini",
+      "hash": "9655bc80e67c1c00e0e5dbc55b7592e4362defdcf9b9f5c946468c52c58e0d48",
+      "size": 11422
+    },
+    {
+      "path": "data/Translate_FR/T_Collection.ini",
+      "hash": "b0b5479782cf7acbaacfefb57b01ee8b541f841de5d8a1befc5e3334fd282853",
+      "size": 409304
+    },
+    {
+      "path": "data/Translate_FR/T_Dialogue.ini",
+      "hash": "dd79231e42a694ee8047339b1e84fd51b057add4df29c2f2640f92cfc8d52255",
+      "size": 9592005
+    },
+    {
+      "path": "data/Translate_FR/T_DynamicEvent.ini",
+      "hash": "3932c4583b54763127e4246656735a4d44675c1188699d0edda9f0943175d86e",
+      "size": 12763
+    },
+    {
+      "path": "data/Translate_FR/T_Elf.ini",
+      "hash": "c20613283815e6b51e4c1275443260f85b354d00cc1e7804d50e54f189e75342",
+      "size": 7698
+    },
+    {
+      "path": "data/Translate_FR/T_ElfCollect.ini",
+      "hash": "47c7bc04e4aa8cb45577b82cd845e8b0ef03904dbc7eb5bd10cbff0e25c202d1",
+      "size": 36437
+    },
+    {
+      "path": "data/Translate_FR/T_ElfKing.ini",
+      "hash": "673efe8a6505716a5f41216c22d94a7199f52336f8565d08c707f5fdb4e6bba3",
+      "size": 1719
+    },
+    {
+      "path": "data/Translate_FR/T_ElfRacing.ini",
+      "hash": "bd887f20c0a51edde6e0bad8186f1db213aaabad3366599487aff1d5b5f9a7ce",
+      "size": 184
+    },
+    {
+      "path": "data/Translate_FR/T_ElfTeamFight.ini",
+      "hash": "e06d3bf0dc71aaad10aac30404b009f90d360c28d78773414a6870a8bf08699a",
+      "size": 8447
+    },
+    {
+      "path": "data/Translate_FR/T_ElfTemple.ini",
+      "hash": "8f929d54a03c60fd04f990aee468c9fee7e46f91d48c9bc8d3e623e4bc1a29da",
+      "size": 324
+    },
+    {
+      "path": "data/Translate_FR/T_ElfTrain.ini",
+      "hash": "8d0497f9d58e6fdafa0bd08b03e9292a43836ff13f85ed8d188032b881c8ccf2",
+      "size": 112749
+    },
+    {
+      "path": "data/Translate_FR/T_Enchant.ini",
+      "hash": "1ec5462fd4ce84c649798be28349b28b8480c6d73ee54dc3292308aca862e02d",
+      "size": 3091323
+    },
+    {
+      "path": "data/Translate_FR/T_EquipSet.ini",
+      "hash": "fd92754a3acf7f71feb0fdbd9d5d73d951a821f34eb2509d538c6c94a2e79a32",
+      "size": 27106
+    },
+    {
+      "path": "data/Translate_FR/T_Exam.ini",
+      "hash": "c05e1c270d35f72ca6810986d89806401a4f0c76415234bd1c5d744f34042ef2",
+      "size": 97636
+    },
+    {
+      "path": "data/Translate_FR/T_FamilyTree.ini",
+      "hash": "51d68e2627de5a8d11de4a5d0d2964539f033110a4398b2b1e8d97f0e3b472d5",
+      "size": 949
+    },
+    {
+      "path": "data/Translate_FR/T_Festival.ini",
+      "hash": "e42dfbbef781836a4907d3605dd87295f15ac3ea44e5cd46c49d685fccad7f35",
+      "size": 10938
+    },
+    {
+      "path": "data/Translate_FR/T_Item.ini",
+      "hash": "0ea499f209fad39226666e9059597ee18b1d5470bcf38e0acb2fbe8c1555ed97",
+      "size": 5255342
+    },
+    {
+      "path": "data/Translate_FR/T_ItemCombo.ini",
+      "hash": "de1c1a09fab18dbed8eafd8ebe9b456ece77d913157c1b96f030261c403f4b7c",
+      "size": 208243
+    },
+    {
+      "path": "data/Translate_FR/T_ItemMall.ini",
+      "hash": "e7b2139c21b9bfa55482d9b3608fe57765af0d6cf3a7c6ff4a5970aba0bdbc84",
+      "size": 3978354
+    },
+    {
+      "path": "data/Translate_FR/T_MentorshipInstance.ini",
+      "hash": "8efabcd0c248608bdc5adbcce98a78e5bbdd83b72246a419e37e9ad3eacc7907",
+      "size": 420
+    },
+    {
+      "path": "data/Translate_FR/T_Mission.ini",
+      "hash": "8faa230b75a0e20e121badf87bd77103ea25877efa4d29d7790acf7087098355",
+      "size": 307011
+    },
+    {
+      "path": "data/Translate_FR/T_Monster.ini",
+      "hash": "cc9d249450cbddb4c5bc6adc9787ed7cad83ba9374390a1d4bc18a3716ea64a5",
+      "size": 243976
+    },
+    {
+      "path": "data/Translate_FR/T_Node.ini",
+      "hash": "de8ca2661fc122d0a67929edef815ff328821cbdd6549e8605a867f71a534ba6",
+      "size": 39061
+    },
+    {
+      "path": "data/Translate_FR/T_Npc.ini",
+      "hash": "c8e43829193daeb4fc50d2f4099fb413bb73ed851278dcd046e31db8b6343b5e",
+      "size": 132997
+    },
+    {
+      "path": "data/Translate_FR/T_PointAbility.ini",
+      "hash": "3a487816b2220866ae40940ca01726d6615d0825840167fe52c9b008ab2be015",
+      "size": 192
+    },
+    {
+      "path": "data/Translate_FR/T_Race.ini",
+      "hash": "95cf0b06c5db6678ab4fe96f0742a65a2a999ae4b14cba5d241bfd2022d6be71",
+      "size": 322
+    },
+    {
+      "path": "data/Translate_FR/T_RaceGroup.ini",
+      "hash": "791c18528843a055cdd765f2b15dfad9f34680a1da6039257fd89651d31aec7d",
+      "size": 57
+    },
+    {
+      "path": "data/Translate_FR/T_RainbowEvent.ini",
+      "hash": "bb16d8f1193a4cb3db19b19c5c7e51928def72dcea779831af1670167309b097",
+      "size": 22752
+    },
+    {
+      "path": "data/Translate_FR/T_RecommendEvents.ini",
+      "hash": "b00bbc8b7e40ae4c4b58189df1a63cbdccecc10ea9bf7f81cf1579752f097fa0",
+      "size": 370129
+    },
+    {
+      "path": "data/Translate_FR/T_RideCombo.ini",
+      "hash": "d2b232636feeb83b47c3ae747d7c1a11264a421ec7532496b3ca61d3a90726fe",
+      "size": 28002
+    },
+    {
+      "path": "data/Translate_FR/T_Spell.ini",
+      "hash": "325b4db0f725fdd053af90f4fdedb693639d076ae2d8e5a61f8f7eee5dbb9931",
+      "size": 1710626
+    },
+    {
+      "path": "data/Translate_FR/T_TextIndex.ini",
+      "hash": "dea0744cb1a842844d8db77ebecb42f23a36ad7efba7b67b5384c87f533a5ec8",
+      "size": 948844
+    },
+    {
+      "path": "data/Translate_FR/T_Title.ini",
+      "hash": "84a68dfd8332066a37708cd2e74adf4ce48c6cad314e6b5124aa04e4b21d571a",
+      "size": 68817
+    },
+    {
+      "path": "data/Translate_FR/T_VIP.ini",
+      "hash": "a7ef8bb8693deaf6cac59f311204d9c7d6befe3c7de06d9fbf38b32c2ab49567",
+      "size": 65
+    },
+    {
+      "path": "data/Translate_PT/T_Achievement.ini",
+      "hash": "fbf1bff7356d21d959a1dc476c61caa5175635c9e9d7a0cd675101e5b9107abb",
+      "size": 548938
+    },
+    {
+      "path": "data/Translate_PT/T_Activity.ini",
+      "hash": "aaaa2599c9c6a9d596968cd1d05c3b98d5e3b65c35d324255ad8881b3e6ae3ff",
+      "size": 751585
+    },
+    {
+      "path": "data/Translate_PT/T_Battlefield.ini",
+      "hash": "1222e3a5b5a43bf4ff548a69232f2c9d78ecb5152c43b05697730ccd79faed91",
+      "size": 2011
+    },
+    {
+      "path": "data/Translate_PT/T_BeastsTower.ini",
+      "hash": "e50beb49926fb7497ca54b7abaccac099062e4a5b14b280c6e3c46c74637a9b4",
+      "size": 777
+    },
+    {
+      "path": "data/Translate_PT/T_Class.ini",
+      "hash": "97df872c558de0556d2bfac069a85672c47f8b4555ffbdd1bc39bbac0fa51f31",
+      "size": 11697
+    },
+    {
+      "path": "data/Translate_PT/T_Collection.ini",
+      "hash": "4f10bd77eeaed02d7b744ad98aae41077f7ebdf1d19dda6b5d918a3b92d4b55b",
+      "size": 520777
+    },
+    {
+      "path": "data/Translate_PT/T_Dialogue.ini",
+      "hash": "41e3bac93101dce618aa9c084a39bf1882add504c6ee4c23e996854f131e9963",
+      "size": 9710879
+    },
+    {
+      "path": "data/Translate_PT/T_DynamicEvent.ini",
+      "hash": "590f0d45e3efd54f46302da72d07ae2337cb1852c1c40aa25f10eb626676c731",
+      "size": 14130
+    },
+    {
+      "path": "data/Translate_PT/T_Elf.ini",
+      "hash": "60015d5ca2b143ec1e70ebc1c0946f8c91d2511625b566f062382c753ad175f0",
+      "size": 7539
+    },
+    {
+      "path": "data/Translate_PT/T_ElfCollect.ini",
+      "hash": "fe596170d81b915a10f3ce6406f8ec625584feb93ba9387bd921c25b7bc42542",
+      "size": 41458
+    },
+    {
+      "path": "data/Translate_PT/T_ElfKing.ini",
+      "hash": "4632bf94e28522d85182331206e18ec1d79309be38c06cd8dfb20285faf753d2",
+      "size": 1673
+    },
+    {
+      "path": "data/Translate_PT/T_ElfRacing.ini",
+      "hash": "89398829b871fe637ccf2b433aeb34fd93064be2ef5ab5549c2e1ade65ab4725",
+      "size": 178
+    },
+    {
+      "path": "data/Translate_PT/T_ElftabletAbility.ini",
+      "hash": "2da6b24a701a6e6f80db62755c25871eb16b5cee14f51527c20c22110fb19555",
+      "size": 2223
+    },
+    {
+      "path": "data/Translate_PT/T_ElftabletCombo.ini",
+      "hash": "64ad8bbb55a5cc01cace250efa0a95d4d2c4b252eb87d8c238e6bbf64f1aebb1",
+      "size": 699
+    },
+    {
+      "path": "data/Translate_PT/T_ElfTeamFight.ini",
+      "hash": "96f040cba666e5fabb55670e717c224c824c60d64ff4dbb250ac4996be2e6349",
+      "size": 8669
+    },
+    {
+      "path": "data/Translate_PT/T_ElfTemple.ini",
+      "hash": "d0bd01199f9b7b28ee22f07c0db4364eb294913e14244099a6fa2fc4e4ed7be2",
+      "size": 631
+    },
+    {
+      "path": "data/Translate_PT/T_ElfTempleChallenge.ini",
+      "hash": "6efd7db2219e10f9dbb1ed54c62d8bd6196dda57dd13ff8b9ede29d113c05bb7",
+      "size": 1086
+    },
+    {
+      "path": "data/Translate_PT/T_ElfTrain.ini",
+      "hash": "147fb95d5ea5f52245a5028910b366025f4fca7fc4d19548528e02f2f0b1218e",
+      "size": 111459
+    },
+    {
+      "path": "data/Translate_PT/T_Enchant.ini",
+      "hash": "18a4a4c1d7c3443e73efaf402a9ef53bbe56890b7303e90e7efa989eef3ab51e",
+      "size": 4039211
+    },
+    {
+      "path": "data/Translate_PT/T_EquipSet.ini",
+      "hash": "c15461dea7668b1cc1bf66fc62263ab1d06071cd4839a8cf702c7479d8229381",
+      "size": 22952
+    },
+    {
+      "path": "data/Translate_PT/T_Exam.ini",
+      "hash": "add9ee1f4276106e53c2e5dd19029bcb2880b866f7fca031c5be716644f78173",
+      "size": 93702
+    },
+    {
+      "path": "data/Translate_PT/T_FamilyTree.ini",
+      "hash": "dddb707d2a0d02796acbd7798636c4052f6c6ec833a6acc33383af97512e78c9",
+      "size": 1129
+    },
+    {
+      "path": "data/Translate_PT/T_Festival.ini",
+      "hash": "42446b6b9c8e4b43c9dc7ba2f97abba82292db68950e07a31e2ae2619c1d81f4",
+      "size": 7504
+    },
+    {
+      "path": "data/Translate_PT/T_Item.ini",
+      "hash": "fd733fe72fa86e7e8c86de143b0f381c8a9d8697f6fb06e8fd53ecbb38983390",
+      "size": 5974490
+    },
+    {
+      "path": "data/Translate_PT/T_ItemCombo.ini",
+      "hash": "a3123571695104c8d631f7a8f19d7e7fa312e48d31882dc6087cfbbcb281ecce",
+      "size": 225856
+    },
+    {
+      "path": "data/Translate_PT/T_ItemMall.ini",
+      "hash": "77c9f8b2223593965637d51c0673cb6a2f38a8fa3b7401c0e3b7d047e6dc63d3",
+      "size": 3391831
+    },
+    {
+      "path": "data/Translate_PT/T_MentorshipInstance.ini",
+      "hash": "881746608c84e2a68e8ffa6aee211a28c15953c3550679593d5f68ab4820f5f8",
+      "size": 448
+    },
+    {
+      "path": "data/Translate_PT/T_Mission.ini",
+      "hash": "9c25fb24d48789aa4774979468a82bfdc83ba058f5e921185fc49a41045db191",
+      "size": 314787
+    },
+    {
+      "path": "data/Translate_PT/T_Monster.ini",
+      "hash": "0d69ffa9f09335318e3c13f4630c81daf90872b538b4086f63fbd3649f029976",
+      "size": 290866
+    },
+    {
+      "path": "data/Translate_PT/T_Node.ini",
+      "hash": "d2f4b2fadb4636d461040beb3a340756433c17c7a8dbc7e56097cb9721756b2c",
+      "size": 51500
+    },
+    {
+      "path": "data/Translate_PT/T_Npc.ini",
+      "hash": "da864481b3dc57ebbafdb4ce9ab33de302e7aea2507909346141a41fe9c2948c",
+      "size": 151707
+    },
+    {
+      "path": "data/Translate_PT/T_PointAbility.ini",
+      "hash": "f33cd92f9a87af6eca837772bcfdd23c6438a0fbb5ef2b4050c9b677d0997202",
+      "size": 194
+    },
+    {
+      "path": "data/Translate_PT/T_Race.ini",
+      "hash": "907823f659a192078abcbc80cc8fe73faf1bd97f2bb7926a898ea7c78dc33e69",
+      "size": 322
+    },
+    {
+      "path": "data/Translate_PT/T_RaceGroup.ini",
+      "hash": "c84e54e2819d9bf1616d2129fd991bb9fd03b714c79fdfb1bc513a53b7e394b1",
+      "size": 117
+    },
+    {
+      "path": "data/Translate_PT/T_RainbowEvent.ini",
+      "hash": "f8257528d02262289380a63968eb9e2dda5397b88c79af4de5166a5501424d4d",
+      "size": 20817
+    },
+    {
+      "path": "data/Translate_PT/T_RecommendEvents.ini",
+      "hash": "db6c91f144229de763e850963f842ffd266eef45b6fedd2eb04093ac68fdd0ae",
+      "size": 384515
+    },
+    {
+      "path": "data/Translate_PT/T_RideCombo.ini",
+      "hash": "1372c89d249a9ab7bad54f466f99367231fac78c53e4642d0b35a68c3eed5562",
+      "size": 32882
+    },
+    {
+      "path": "data/Translate_PT/T_Spell.ini",
+      "hash": "188320b2de297e34ab3f1eedfd2bdd430ceebf79b8838654e04a8c3bdd3377d6",
+      "size": 1837618
+    },
+    {
+      "path": "data/Translate_PT/T_TextIndex.ini",
+      "hash": "ad8aebf3a521bb511ec89083617f6f3749ee81d25d48a2624bb9557318021fca",
+      "size": 1042385
+    },
+    {
+      "path": "data/Translate_PT/T_Title.ini",
+      "hash": "de92e69171f84baa73aa79955a8534ea3f4fb1544acf87222e104b19a02427f9",
+      "size": 99192
+    },
+    {
+      "path": "data/Translate_PT/T_VIP.ini",
+      "hash": "a36e0f79479c70e8c609914ec3f3003fb3501ae99b5c1ba8e2d68296d63664a4",
+      "size": 287
+    },
+    {
+      "path": "ride/animation/R260.kf",
+      "hash": "49b0e6072074f71f3f052bde4a4233b060695e2d576f7e2cce38aac7c8cf431c",
+      "size": 361031
+    },
+    {
+      "path": "ride/model/R260.nif",
+      "hash": "bdc582298750eb3e1c8849d2e98dc33458fdfda072097b0a79b559bbb4e59c92",
+      "size": 233999
+    },
+    {
+      "path": "ride/R260.kfm",
+      "hash": "6d0f7320d0f76eac05ad24f73c4211a76cb8f6e39948a26f9cb45eac956bebb1",
+      "size": 1165
+    },
+    {
+      "path": "ride/texture/R23101.dds",
+      "hash": "1d545dc79e380e294d690f81707d9dd79588e94ce73998b220add15f35260a4e",
+      "size": 262272
+    },
+    {
+      "path": "UI/itemicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
+    },
+    {
+      "path": "UI/skillicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
+    },
+    {
+      "path": "UI/uiicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
+    }
+  ]
+}
