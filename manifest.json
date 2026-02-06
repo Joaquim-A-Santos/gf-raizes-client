@@ -7,8 +7,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "5a43008b62550d4e9bfa9156c0358c1e468ec3d2a5fd367c2ddd9d9bad301978",
-      "size": 6671822
+      "hash": "fc2090424d05e7a44534154f4a0a8c73e596543496c07670513410449192e725",
+      "size": 6671926
     },
     {
       "path": "data/db/C_Item.ini",
@@ -17,8 +17,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "44a46dc187d58d0a0beccd6ac2d61ae634391f3cf6f4b8f1f839e6ba416c4dc2",
-      "size": 5350430
+      "hash": "61fa2df57fefea5f3bd4324bc9233c1b45696b0893250573c5deb818798a8a0a",
+      "size": 5350962
     },
     {
       "path": "data/db/C_Mission.ini",
@@ -27,8 +27,13 @@
     },
     {
       "path": "data/db/C_Store.ini",
-      "hash": "f089a0aa1cba1f8e65cc5a3aa470a29cc484585a84ad71fa7929ec144272b776",
-      "size": 265978
+      "hash": "50364b10fa0d767e59d21f3b52d9b7888db3cfc3b5c1918a9c350810c96eebaf",
+      "size": 266069
+    },
+    {
+      "path": "data/db/C_Title.ini",
+      "hash": "00e995f6b7e4bb31935166777af348e8b313530d17bfc20c5273939c318fa424",
+      "size": 107175
     },
     {
       "path": "data/db/RideList.ini",
