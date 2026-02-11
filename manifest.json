@@ -7,8 +7,8 @@
     },
     {
       "path": "data/db/C_Dialogue.ini",
-      "hash": "72aa01714cab5bbabdb9935805b0fd3ceb804d539142f047987d78114ee2ad4f",
-      "size": 6328058
+      "hash": "9b4d1ce37413d6e0b85663969ddb042e27aa87ebcff371d8b8d252f6b4bef1b0",
+      "size": 6328108
     },
     {
       "path": "data/db/C_Enchant.ini",
@@ -37,7 +37,7 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "ffba99496014afaca76ef3bf1bb23f86c8fa91db9b7ce3ae6b1f43a84a0d4741",
+      "hash": "1c2e9185217e4a1e7d94c5a76f27c3c47d4f360b5586b596b3a589b1bf108037",
       "size": 864143
     },
     {
