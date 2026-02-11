@@ -61,6 +61,11 @@
       "size": 23308
     },
     {
+      "path": "data/scene/S274.ini",
+      "hash": "54b41a8db536cd3b895c4ef0dbb090526666b27eb140d70ee3a16462a1f41456",
+      "size": 9514
+    },
+    {
       "path": "data/Translate_EN/T_Achievement.ini",
       "hash": "062d079ac5e5d8ecf60d2f96787d6d01470e7689eb18ae9d0b07fc29b7d5c6e1",
       "size": 466050
@@ -851,6 +856,36 @@
       "size": 262272
     },
     {
+      "path": "map/model/S274/S274.area",
+      "hash": "9d738c01eabf0eb9eaed8fafd1b5434f3596dfc7a0192df6caed5a514346d890",
+      "size": 13
+    },
+    {
+      "path": "map/model/S274/S274.ini",
+      "hash": "8d33d23d22f9a7e9888c727166150f55b2c70f9640a97ca2e313605f4a566be9",
+      "size": 1266
+    },
+    {
+      "path": "map/model/S274/S274.nif",
+      "hash": "77748e085bd0ebe13318e4832f79ae947639925beec420fce65d282e60604f6b",
+      "size": 7888391
+    },
+    {
+      "path": "map/sknodemap/S274.fsmp",
+      "hash": "ba6f82b524f2b4e4d2ab16dd28302baf22ac1ee90a9f7365813fefc6ae81bcd8",
+      "size": 122911
+    },
+    {
+      "path": "map/sknodemap/S274.pgp",
+      "hash": "145f0863405a544f3e1c890efc661eeaaf232addebb138938c715be9303fa452",
+      "size": 45385
+    },
+    {
+      "path": "map/sknodemap/S274.smp",
+      "hash": "dfdac7eb0484e5bfc5ee972dc671c55768d18ea72de77aea0318f9f3151ef757",
+      "size": 122910
+    },
+    {
       "path": "ride/animation/R260.kf",
       "hash": "49b0e6072074f71f3f052bde4a4233b060695e2d576f7e2cce38aac7c8cf431c",
       "size": 361031
@@ -889,6 +924,16 @@
       "path": "UI/itemicon/ZG6402.dds",
       "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
       "size": 640
+    },
+    {
+      "path": "UI/map/S274m.dds",
+      "hash": "ae4fa787b23756aa43bb5914ec3357299223eafbfc17d5685bb5d3bd1f181a23",
+      "size": 262272
+    },
+    {
+      "path": "UI/map/S274s.dds",
+      "hash": "93d29f5d955ccad971931fc6ad1cb09ef7ea53f54f7719dbdbf76a8e6ae56e16",
+      "size": 524416
     },
     {
       "path": "UI/skillicon/W52601.dds",
