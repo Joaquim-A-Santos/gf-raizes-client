@@ -37,8 +37,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "e486280e7f70265b4fd3b73843d2cedd2d8c0f4df61bc1c04f721bda55e1fff4",
-      "size": 864141
+      "hash": "d6cfee6f82cc045cbb6685a97d9410723d7cdf9b6bf053c56147e8988649b557",
+      "size": 864138
     },
     {
       "path": "data/db/C_Store.ini",
@@ -57,8 +57,8 @@
     },
     {
       "path": "data/scene/S100.ini",
-      "hash": "ce7d3ca1a25c28542e0d4b890e00712e334d753d02419e6e544019080ae112fc",
-      "size": 23302
+      "hash": "8b0fe2190f7cb403eccbcd6f41ad1ad6d93c76965240c3cb7da5a3ee3338c7e9",
+      "size": 23308
     },
     {
       "path": "data/Translate_EN/T_Achievement.ini",
