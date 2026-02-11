@@ -22,8 +22,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "61fa2df57fefea5f3bd4324bc9233c1b45696b0893250573c5deb818798a8a0a",
-      "size": 5350962
+      "hash": "f8aca275e6c8d557a255ff076920eb6afa85596662dea5c6ee1e269930402de0",
+      "size": 5358882
     },
     {
       "path": "data/db/C_Mission.ini",
@@ -906,23 +906,203 @@
       "size": 262272
     },
     {
-      "path": "UI/itemicon/W52601.dds",
-      "hash": "20862a2d767e7ea1d65c40576a91a3beeff736bffac6198feff906112ea7bc1f",
-      "size": 4224
+      "path": "UI/itemicon/A60515.dds",
+      "hash": "c89dc6bef0de6db3f835290366be6fefc5a09bd73807be956dd4a4365cf5ae24",
+      "size": 640
     },
     {
-      "path": "UI/itemicon/WG3601.dds",
-      "hash": "192e1da5eccae619180640d62ca6015a99add8c3f8bbeb953218c19aa66e44e1",
-      "size": 4224
+      "path": "UI/itemicon/A60516.dds",
+      "hash": "31385f0944f3516ac609c26b55661f6cc8934e46ec0fbd0f5ce4945a42814b42",
+      "size": 640
     },
     {
-      "path": "UI/itemicon/WG5801.dds",
-      "hash": "da7b4f6aca6ef645a9839b1baddb5a91a6a51b805e80e054a110e54e4b387f3d",
-      "size": 1152
+      "path": "UI/itemicon/A60517.dds",
+      "hash": "5dc87b7cc97214c5832d45b21bc568ccd644744063f26052e738b6da207944a1",
+      "size": 640
     },
     {
-      "path": "UI/itemicon/ZG6402.dds",
-      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "path": "UI/itemicon/A60518.dds",
+      "hash": "75bae314b26a33157911843ce37d56607da998be8fc00046870e0abf9fe8b9ae",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60519.dds",
+      "hash": "b9804102ce497c6d6c895aab3d87f72f18e577bf427dae61481d8d13a986ab69",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60520.dds",
+      "hash": "8a8ab913acdf3653351b8013af09d355968c20bc11baadebe3ad2143c7f5a9a3",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60521.dds",
+      "hash": "92c8de42df310b564d49f2e2f14ea17983784edb34566d7a2b7a5d554761d7d8",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60522.dds",
+      "hash": "b933f167fc17e606cd18a9a87ed27f3da98329adc73a2f2ea2c1aa0565287239",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60523.dds",
+      "hash": "9d19a23a69b207725d0584628c878a56d8bfaf796f8d32f4517b16cab9c3909d",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60524.dds",
+      "hash": "bf529bfc370860455102b4fabffe39a09d0e5434491314447e2c274df9af6da0",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60525.dds",
+      "hash": "35e819fb7b5680f7589abc71f0bd0251ffbe1ec65973dfc18f1ca59001077f2b",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60526.dds",
+      "hash": "431bb8a424e7d4e78b1fc8f42f207e196069cdb9ab37b2d151385132459b5db5",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60527.dds",
+      "hash": "e408093dae05f045cee91ef2c86adced4b54999c40a6deb0f7074e5d77c77ddd",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60528.dds",
+      "hash": "7b490f532e7f613ef753441241be27e41fe8e4e153cfb7b19ea2c70e928748e3",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60529.dds",
+      "hash": "9dea0cd68182fdaf5ace6a063e7277f9fc6c63e71d05ad0870846a78bcfe2b2b",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60530.dds",
+      "hash": "1dfa8aea078286ff162561d1f5a4af93ea76dd7b7cb455cfbb6c5fc0763236e5",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60531.dds",
+      "hash": "0706a9f6c04af14857855175caa522de9a2f0752e5fd128b42609d91f63788c6",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60532.dds",
+      "hash": "b864ff8f1531c926a7b3bb39909772b2000aeb4cd8874f29246cbbe2ffe7b6f0",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60533.dds",
+      "hash": "e3e7a95098a00fc3edcd23650c1d7234ff1d5eedeaa4362a6c668a569bef74b5",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60534.dds",
+      "hash": "38ada2d03512e020943e5d4e303b46c46a1469572145a1c1b41772fed303b359",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60535.dds",
+      "hash": "f00046f362f968ec3f95189ca86b00cb435818f007e33e69bb6ea307b2d5f443",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60536.dds",
+      "hash": "b08d313d124b763cfc114e2f73296d146a9604be8a5bb02820837a25ff527478",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60537.dds",
+      "hash": "df43a9f553a360bd299a003a03d474726c7eea4b7c1a761e2043b6e3a9964a66",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60538.dds",
+      "hash": "9414002d113f2f0863cdb0746d0a638155c800aae51251bc99bf72e1790f5452",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60539.dds",
+      "hash": "b8cab9300d2cf4082c7621aae4233f2651c2b3e7b0070e55e204cc418729db6d",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60540.dds",
+      "hash": "71059532c702890d0a95c9cb371d9ddd5c2619a2962b9f82b0803a5ae689f17f",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60541.dds",
+      "hash": "e5ec2efd1984345da7eae7379d58a3a5148885ae338f93dc467736c5f0fbb9b4",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60542.dds",
+      "hash": "3314fa85a452440ecd5cc133442f76d227449eaac0a577e62234d614affc541b",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60543.dds",
+      "hash": "130338212ba0bd386e4f74e2fbc65cdd320d36ff1ca29f89d985f3a39d651183",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60544.dds",
+      "hash": "d63357003f5c01ca5322d3f8276ad1edf03533f70adb49492e13fe8b3095e12e",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60545.dds",
+      "hash": "14c08d9cc2470f8b2f807d86c1be4a4b22ed7eb69fb899b9c74ab3a6c73a2075",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60546.dds",
+      "hash": "6d48f4433bfc21bc5c1c36d69595b94716dedb1dcd00f7c950e7fa5468e72944",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60547.dds",
+      "hash": "bbe2acf13f2506e8198eb835d2247a62fa935a57c9bc121a00bc23a3bb33e0ae",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60548.dds",
+      "hash": "0a2e9c3475534d6c59c2704d85a843a5879bdc24ec52ce3bb6246a1cf437e098",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60549.dds",
+      "hash": "1837e051eda3292f4c813fa8c5a6336b9197dc10fca3f294183cf9db723a1128",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60550.dds",
+      "hash": "6314a9e4b9ef0ac5d6013fdecca874a776d533867d8472a870f9d9062a3237b9",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60551.dds",
+      "hash": "0abf6979e7f6da0ac4b4e85979285a78f6d5a10dd33a02eae8556bf00398ad5f",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60552.dds",
+      "hash": "8242854f5a878893c907f06433b36bac58b2243625d739585c27709dd8a1c1ed",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60553.dds",
+      "hash": "f28af839ae124fc4d7ebab75ac01a0d21af8cd80988ed0402c5d6bdaa1972b57",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/A60554.dds",
+      "hash": "07fcdfc1cdba1b457a58cbc6874d968f00e1145cbee2cdc86f587b049b40d36e",
       "size": 640
     },
     {
@@ -934,11 +1114,6 @@
       "path": "UI/map/S274s.dds",
       "hash": "93d29f5d955ccad971931fc6ad1cb09ef7ea53f54f7719dbdbf76a8e6ae56e16",
       "size": 524416
-    },
-    {
-      "path": "UI/skillicon/W52601.dds",
-      "hash": "20862a2d767e7ea1d65c40576a91a3beeff736bffac6198feff906112ea7bc1f",
-      "size": 4224
     },
     {
       "path": "UI/skillicon/ZG6402.dds",
