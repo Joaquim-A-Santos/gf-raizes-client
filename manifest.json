@@ -7,8 +7,13 @@
     },
     {
       "path": "data/db/C_Dialogue.ini",
-      "hash": "9b4d1ce37413d6e0b85663969ddb042e27aa87ebcff371d8b8d252f6b4bef1b0",
-      "size": 6328108
+      "hash": "25f43e226726561cc3a8fcf57ca83a77f14596d6d213f67e6a987e7ff5871643",
+      "size": 6328103
+    },
+    {
+      "path": "data/db/C_DropItem.ini",
+      "hash": "4ed6362ae1db328574a103aaf38af969bb94a969ec8e8006b38799f612a28e8f",
+      "size": 2003444
     },
     {
       "path": "data/db/C_Enchant.ini",
@@ -22,8 +27,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "960b654ce8a610276ad51a7c4bc07c56a2ad395a130de8e02b0b7e1a312df820",
-      "size": 5360174
+      "hash": "6517fb801ce8756e74f8f560e355c3989641480125caf1f0bd729db1953ea3ab",
+      "size": 5360808
     },
     {
       "path": "data/db/C_Mission.ini",
@@ -42,8 +47,8 @@
     },
     {
       "path": "data/db/C_Store.ini",
-      "hash": "0734cc7beb99f6fdb0f2a84112e87bc8e49f5a2c1fd95d0bf7298e3a009b3d16",
-      "size": 266910
+      "hash": "3a901dfb0fe3bfa335bd1c83e254b75832500a656d35a557ac5483fa0c9e94f0",
+      "size": 266881
     },
     {
       "path": "data/db/C_Title.ini",
@@ -1133,6 +1138,11 @@
     {
       "path": "UI/itemicon/RM0006.dds",
       "hash": "8edc78609c1d820eaf8b62caf6dee7767c70d7b02fe7b47bbfd7a43fdec75be3",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/RM0007.dds",
+      "hash": "e70b5d154fed17426c46933526fca4eab2a44e2f95326ac066311519aa4d0b94",
       "size": 640
     },
     {
