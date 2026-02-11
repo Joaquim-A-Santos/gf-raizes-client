@@ -22,8 +22,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "f8aca275e6c8d557a255ff076920eb6afa85596662dea5c6ee1e269930402de0",
-      "size": 5358882
+      "hash": "960b654ce8a610276ad51a7c4bc07c56a2ad395a130de8e02b0b7e1a312df820",
+      "size": 5360174
     },
     {
       "path": "data/db/C_Mission.ini",
@@ -1103,6 +1103,36 @@
     {
       "path": "UI/itemicon/A60554.dds",
       "hash": "07fcdfc1cdba1b457a58cbc6874d968f00e1145cbee2cdc86f587b049b40d36e",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/RM0001.dds",
+      "hash": "8724b47c419a405a937f2bd89c11f731a2688c827f523bc3056be36ff109b858",
+      "size": 520
+    },
+    {
+      "path": "UI/itemicon/RM0002.dds",
+      "hash": "aa6e6083e472fcaa967d2c7af657862fdf052fe2386927c158f0276037850e9a",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/RM0003.dds",
+      "hash": "25605ee0692d95a8f7fdf1a5127a82144a36411d58d1a7a40227c3dfa74bfcd0",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/RM0004.dds",
+      "hash": "242c8eb06d51e399efe7f40e4dcfd17ca1e7fd741f72b6685da629433f18b3c0",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/RM0005.dds",
+      "hash": "4aac4ed15c80e7befc05fd14a1cd82f7b341a22196f574f718e075dee20d2c61",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/RM0006.dds",
+      "hash": "8edc78609c1d820eaf8b62caf6dee7767c70d7b02fe7b47bbfd7a43fdec75be3",
       "size": 640
     },
     {
