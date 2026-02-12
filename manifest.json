@@ -7,8 +7,8 @@
     },
     {
       "path": "data/db/C_Dialogue.ini",
-      "hash": "d3cb96a762405fa6d3c444d33f622fe22f1c484388bb0536f2d2bcd7655debf4",
-      "size": 6328103
+      "hash": "185851a8bfcc164f6f3d73a348d5a0aa41512be18778b85fa04dccf483ce513e",
+      "size": 6328125
     },
     {
       "path": "data/db/C_DropItem.ini",
@@ -24,6 +24,11 @@
       "path": "data/db/C_Item.ini",
       "hash": "e965665cc1c25d9763a3043d94cbdfbcaf13a552c8d697bcff3cced6b510c627",
       "size": 10189348
+    },
+    {
+      "path": "data/db/C_ItemExchange.ini",
+      "hash": "64d691ec5d8a1d30446e96e31f40f9e9fd03f6d80bf76fa23616ecdca2d37916",
+      "size": 238612
     },
     {
       "path": "data/db/C_ItemMall.ini",
@@ -42,8 +47,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "99eb75885ff66b00ae494e5d39bc4e40b4598cb6b979361ce88ffaf2e1c24c7f",
-      "size": 864150
+      "hash": "a0c79d66770549c65f4775fdcca8145a3bb85d478e4e51dde72e9bb09828a222",
+      "size": 864228
     },
     {
       "path": "data/db/C_Store.ini",
