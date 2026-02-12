@@ -2,12 +2,12 @@
   "files": [
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "d7857491387cc6e81e054a27d28418021c5e4a7c3bcefd6d1204663dfaa1425e",
-      "size": 591605
+      "hash": "34014be551c34115a10c66dc1298f332f47ff4d4c7ffffaedd08bc80a357502f",
+      "size": 592982
     },
     {
       "path": "data/db/C_Dialogue.ini",
-      "hash": "25f43e226726561cc3a8fcf57ca83a77f14596d6d213f67e6a987e7ff5871643",
+      "hash": "d3cb96a762405fa6d3c444d33f622fe22f1c484388bb0536f2d2bcd7655debf4",
       "size": 6328103
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "96e0d61cc15affdb8c9109d81ae6e9f5861e45791722caa7d467b6d0e5368b57",
-      "size": 5350950
+      "hash": "907fd42a40e5eb0b5e050af8782902a14ada74babea295f99ecafcede5e99b78",
+      "size": 5360162
     },
     {
       "path": "data/db/C_Mission.ini",
@@ -42,8 +42,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "1c2e9185217e4a1e7d94c5a76f27c3c47d4f360b5586b596b3a589b1bf108037",
-      "size": 864143
+      "hash": "99eb75885ff66b00ae494e5d39bc4e40b4598cb6b979361ce88ffaf2e1c24c7f",
+      "size": 864150
     },
     {
       "path": "data/db/C_Store.ini",
@@ -1112,8 +1112,8 @@
     },
     {
       "path": "UI/itemicon/RM0001.dds",
-      "hash": "8724b47c419a405a937f2bd89c11f731a2688c827f523bc3056be36ff109b858",
-      "size": 520
+      "hash": "ac29f8d054379ae5dd9036a010100ca4ff2bf00fbbfd9843d76d131769b4fd75",
+      "size": 640
     },
     {
       "path": "UI/itemicon/RM0002.dds",
