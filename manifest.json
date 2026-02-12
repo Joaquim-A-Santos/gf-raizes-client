@@ -21,18 +21,23 @@
       "size": 6671926
     },
     {
+      "path": "data/db/C_EquipSet.ini",
+      "hash": "1c9199e294f810bc55964edab5b4591beb7bbacf26e4ac2a02eab5c03c584700",
+      "size": 74481
+    },
+    {
       "path": "data/db/C_Item.ini",
       "hash": "e965665cc1c25d9763a3043d94cbdfbcaf13a552c8d697bcff3cced6b510c627",
       "size": 10189348
     },
     {
       "path": "data/db/C_ItemExchange.ini",
-      "hash": "ef73ba1664d26b0ed4948d10e9ffb8916a84b90f9af814cd75b6adf7e266ef5e",
+      "hash": "07e445d9b4fc13114e96014b0ae021912c693404f00c25d5b7920f5065a55ea2",
       "size": 239202
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "d6f5d407f646ce6dfcfc645e0cbf89ea5d533379446598cb3c36687679761cb4",
+      "hash": "0cbaae9c90b18127b6bed001338ced043c739deacc831135b1fc5c5360039d8d",
       "size": 5360783
     },
     {
