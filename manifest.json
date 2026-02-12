@@ -27,8 +27,8 @@
     },
     {
       "path": "data/db/C_ItemExchange.ini",
-      "hash": "64d691ec5d8a1d30446e96e31f40f9e9fd03f6d80bf76fa23616ecdca2d37916",
-      "size": 238612
+      "hash": "ef73ba1664d26b0ed4948d10e9ffb8916a84b90f9af814cd75b6adf7e266ef5e",
+      "size": 239202
     },
     {
       "path": "data/db/C_ItemMall.ini",
@@ -52,8 +52,8 @@
     },
     {
       "path": "data/db/C_Store.ini",
-      "hash": "5340e60649c899f8375f9796b0cf4e635803a91300dd848627855d42353e88eb",
-      "size": 266882
+      "hash": "0d773f4d12d67ec3851d9b36380f656b87874929a15b33203d56e5d6ce899a84",
+      "size": 266899
     },
     {
       "path": "data/db/C_Title.ini",
