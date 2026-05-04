@@ -32,8 +32,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "913c38913aed8dd907a1ea9f996ed8324a253e060db1b78a7dcd96ba0da283dd",
-      "size": 8979883
+      "hash": "5abaa961adcd88167b2024bf818e69b5ea2d9ac50a4f93226feeee61d997795f",
+      "size": 8979190
     },
     {
       "path": "data/db/C_ItemExchange.ini",
@@ -42,8 +42,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "96db56d171f275a5a259d5b8b727abbbe88845fd68414979355319219cf39be9",
-      "size": 5610469
+      "hash": "b2cc3acdf950ef88afebfc6adbde94aea9dba34ded99f522363c5dea53cc1123",
+      "size": 5618624
     },
     {
       "path": "data/db/C_Level.ini",
@@ -77,8 +77,8 @@
     },
     {
       "path": "data/db/C_Store.ini",
-      "hash": "2f1dae0522f20e3ad8daceb8ed7f1972a08eaaffb30134f224c4888b21abd279",
-      "size": 264174
+      "hash": "cdd43bb87896f11a35c484a8ae96e6c565a69e40438d73e729c216bd9ffd2403",
+      "size": 266597
     },
     {
       "path": "data/db/C_Title.ini",
@@ -202,8 +202,8 @@
     },
     {
       "path": "data/Translate_EN/T_Item.ini",
-      "hash": "b6d61e9aceb7ab91dd2845b4051f442a9e018c8394302587be297e551d372dd2",
-      "size": 4520798
+      "hash": "ac8ace7b449fcafe7fe5578f136066980c58a9b41688c990589acdb3746ff771",
+      "size": 4590087
     },
     {
       "path": "data/Translate_EN/T_ItemCombo.ini",
@@ -212,8 +212,8 @@
     },
     {
       "path": "data/Translate_EN/T_ItemMall.ini",
-      "hash": "7c4e9d78d4fff7a3836e70c0d12a1a9b394187461954aaa2d5d67b20e210f1d8",
-      "size": 3382867
+      "hash": "99f8e733792a2cce65dc09f0e094f5be1ba9b972b19be266e894299aa45eab7d",
+      "size": 3427387
     },
     {
       "path": "data/Translate_EN/T_MentorshipInstance.ini",
