@@ -197,13 +197,13 @@
     },
     {
       "path": "data/Translate_EN/T_Festival.ini",
-      "hash": "fcb298787ca316c95e77f66de67de3147b5e589730824114742b6c5df3c208d3",
-      "size": 9067
+      "hash": "423495bb2b28e3afb9cc3453423fe4f11f9e6c90d98dd0474a2fd8d34764b3d9",
+      "size": 9071
     },
     {
       "path": "data/Translate_EN/T_Item.ini",
-      "hash": "561653975db0a52f4f952a4f0c474da5df4b9fd4b7cb4bcf6618a78c7b44847b",
-      "size": 5325074
+      "hash": "6237a3f5c38fb4694b1a94b98bcdcd2dddc8421de2e4b601bdcd216d6aa983c4",
+      "size": 5350916
     },
     {
       "path": "data/Translate_EN/T_ItemCombo.ini",
@@ -212,8 +212,8 @@
     },
     {
       "path": "data/Translate_EN/T_ItemMall.ini",
-      "hash": "9666c1bc91d3c0dfb69d2adf038c3be723d2c8a8aacef6eca6015f1ea0d76292",
-      "size": 3846421
+      "hash": "5636d0dc83a24b1735f642aa1a2c53b441f681bc0c14a10c4b110de7454becb0",
+      "size": 3864723
     },
     {
       "path": "data/Translate_EN/T_MentorshipInstance.ini",
