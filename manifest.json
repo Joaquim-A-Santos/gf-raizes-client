@@ -71,6 +71,11 @@
       "size": 864228
     },
     {
+      "path": "data/db/C_Parameter.ini",
+      "hash": "4ea7c65681efe08a4af65d3a870bb580ea63cd305c31595b60367e2c1f744dec",
+      "size": 2806
+    },
+    {
       "path": "data/db/C_StarReward.ini",
       "hash": "1708ab60e53268b64c5e4aa80dd36a8f4ac48dcb28d23e40aa4d64b71a629db2",
       "size": 8290
