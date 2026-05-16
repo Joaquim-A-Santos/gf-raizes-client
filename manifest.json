@@ -182,8 +182,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "52420c17f305c81b9167dc6d44b48808ffc9777549b1aab312702f44d824f12a",
-      "size": 5626483
+      "hash": "ee0655febf4c0c9d9cdfa8c5484cfd7f923ee373ab6c30da7bdd2b63cc819a8c",
+      "size": 5626482
     },
     {
       "path": "data/db/C_Enchantfuncional.ini",
@@ -252,8 +252,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "d8a7a48f974620c3f162388ce9828830d0be089861f8b1a4355af4e674fd6858",
-      "size": 5619262
+      "hash": "364e1ab60688cb822ab6e5ab957a23e923f8f6f50994f69cea19ee67f4f54fa5",
+      "size": 5619261
     },
     {
       "path": "data/db/C_Level.ini",
