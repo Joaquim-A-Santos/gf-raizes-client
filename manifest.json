@@ -182,8 +182,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "ee0655febf4c0c9d9cdfa8c5484cfd7f923ee373ab6c30da7bdd2b63cc819a8c",
-      "size": 5626482
+      "hash": "7c7c250f1dff024930b342ad33f93d778e636797474e9db1eca11ede5a7b33cb",
+      "size": 5626511
     },
     {
       "path": "data/db/C_Enchantfuncional.ini",
@@ -292,8 +292,8 @@
     },
     {
       "path": "data/db/C_Monster.ini",
-      "hash": "11a41b29f6dd91921483272e47b2824c170e6ae09ee55383365fdb5bc9d10cd9",
-      "size": 1668961
+      "hash": "8ddee49c4c6117b783ae2526ab285625926ce130611547acb0055d328f146186",
+      "size": 1669051
     },
     {
       "path": "data/db/C_MonsterStep.ini",
