@@ -87,8 +87,8 @@
     },
     {
       "path": "data/db/C_DropItem.ini",
-      "hash": "154bcd8ca969dd6c7316891b94c259523c3b555cf50735532a43455db2eab650",
-      "size": 3691002
+      "hash": "6e7ee8928264bb4b45d6951d298e9573ed37692d5f88057a4734cfb3dbca8574",
+      "size": 3698260
     },
     {
       "path": "data/db/C_DynamicEvent.ini",
@@ -182,8 +182,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "47b5ceba842f0e90d1f688ca3d4cefc9d56e98cc4cfc0f6f361dfeaba51a3f90",
-      "size": 5625541
+      "hash": "738875db378d253a175d3446632e22ed16a27afe4376d45d2a5be87358048c2d",
+      "size": 5626193
     },
     {
       "path": "data/db/C_Enchantfuncional.ini",
@@ -237,8 +237,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "e736520a98192734e6abe775128a78e69a36212ea87b9fb436ff1df737449b26",
-      "size": 8979193
+      "hash": "f0863c4e6d8b89f387a059e5e9780fe0cce41aa6e7671d76020abc75a89c6f95",
+      "size": 8983527
     },
     {
       "path": "data/db/C_ItemCombo.ini",
@@ -252,13 +252,13 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "43b5b601f5f544fa763ace3e343a582262719167024350adb56edc9813e9381c",
-      "size": 5618789
+      "hash": "b754a57b7fcccbc53349e82799b58ba527edae2d614b0fa19805928cb1feb225",
+      "size": 5619256
     },
     {
       "path": "data/db/C_Level.ini",
-      "hash": "c49c987ea3111c2137e4f0f2a605ae083ad31e42220c3ce66d6c65302fba0d92",
-      "size": 28843
+      "hash": "77280309ec4ee9fa506be5114f6239b4de0afe75a038cf24174d45c0de21312d",
+      "size": 28845
     },
     {
       "path": "data/db/C_LuckyBar.ini",
@@ -292,8 +292,8 @@
     },
     {
       "path": "data/db/C_Monster.ini",
-      "hash": "c20c4d5f5cb4aa2a50a784c65ab91fb351e81ca579248e9846a068d998148c50",
-      "size": 1658109
+      "hash": "11a41b29f6dd91921483272e47b2824c170e6ae09ee55383365fdb5bc9d10cd9",
+      "size": 1668961
     },
     {
       "path": "data/db/C_MonsterStep.ini",
@@ -312,8 +312,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "98c7544273b7656f61e2f4c01b7c75335cbd7adb40b7de029df32ac591f2a16b",
-      "size": 857036
+      "hash": "60312db0e0a61e1c56d37f455438d03563959b8bb73def59f7d14d80c44bc985",
+      "size": 856922
     },
     {
       "path": "data/db/C_Paladin.ini",
@@ -462,8 +462,8 @@
     },
     {
       "path": "data/db/C_Title.ini",
-      "hash": "55cb3a39921c9fbc81f9825d77152ddcfe80d3c9212ccdb1e8a293eb36b0f59f",
-      "size": 104425
+      "hash": "4c99c4550552e65dea776e239e95e72f2c8f30b74aedb0a29c6bf9d1d871656e",
+      "size": 104701
     },
     {
       "path": "data/db/C_Transport.ini",
@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db/RideList.ini",
-      "hash": "ce752fbe769ce7ba0a42f6701d775386cf716f44541d1ad4cbf15bc89cac93cb",
-      "size": 33370
+      "hash": "7d130adc547572a79a8060575cb69786f2df83bb4b4b03c6d85356f130003209",
+      "size": 33442
     },
     {
       "path": "data/db/RideStep.ini",
@@ -1416,9 +1416,19 @@
       "size": 122910
     },
     {
+      "path": "ride/animation/EP259.kf",
+      "hash": "9dacd50d81c9a193cc75ce021a8757b9648a300e3ad8e57bd59d7aa8fb129398",
+      "size": 4659748
+    },
+    {
       "path": "ride/animation/R260.kf",
       "hash": "49b0e6072074f71f3f052bde4a4233b060695e2d576f7e2cce38aac7c8cf431c",
       "size": 361031
+    },
+    {
+      "path": "ride/model/EP259.nif",
+      "hash": "3972e0d44251c77d42752e40943c69d24b08d1d23c952eb63411712f5e36dac2",
+      "size": 317633
     },
     {
       "path": "ride/model/R260.nif",
@@ -1429,6 +1439,11 @@
       "path": "ride/R260.kfm",
       "hash": "6d0f7320d0f76eac05ad24f73c4211a76cb8f6e39948a26f9cb45eac956bebb1",
       "size": 1165
+    },
+    {
+      "path": "ride/texture/EP25901.dds",
+      "hash": "be3700a84b9c2f01fbee893f6e2d4b9e6532afdff5d34604ca63a1934b3f3769",
+      "size": 2097280
     },
     {
       "path": "ride/texture/R23101.dds",
@@ -1641,6 +1656,11 @@
       "size": 640
     },
     {
+      "path": "UI/itemicon/re0001.dds",
+      "hash": "8abfcef6c805452f6be513f601346d1506a46a83f192143f5c505d48b9ae0f43",
+      "size": 640
+    },
+    {
       "path": "UI/itemicon/RM0001.dds",
       "hash": "ac29f8d054379ae5dd9036a010100ca4ff2bf00fbbfd9843d76d131769b4fd75",
       "size": 640
@@ -1684,6 +1704,11 @@
       "path": "UI/map/S274s.dds",
       "hash": "93d29f5d955ccad971931fc6ad1cb09ef7ea53f54f7719dbdbf76a8e6ae56e16",
       "size": 524416
+    },
+    {
+      "path": "UI/skillicon/re0001.dds",
+      "hash": "8abfcef6c805452f6be513f601346d1506a46a83f192143f5c505d48b9ae0f43",
+      "size": 640
     },
     {
       "path": "UI/skillicon/ZG6402.dds",
