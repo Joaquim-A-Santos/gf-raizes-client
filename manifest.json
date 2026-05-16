@@ -67,8 +67,8 @@
     },
     {
       "path": "data/db/C_Classes.ini",
-      "hash": "08e466672bc41194069f3bb4be1d7ba3a76d36c22b827cfd568578906a3ce5b1",
-      "size": 796
+      "hash": "2b4deeebee4df06fe1c3962f13c679714b6ca97c9cb322b36a1ebf849594a939",
+      "size": 734
     },
     {
       "path": "data/db/C_Collection.ini",
@@ -252,8 +252,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "364e1ab60688cb822ab6e5ab957a23e923f8f6f50994f69cea19ee67f4f54fa5",
-      "size": 5619261
+      "hash": "6e7e7fdefe5bb27a011ed9a3a1f2643c1bde9ace44ec2e329284a528e190b7b3",
+      "size": 5619858
     },
     {
       "path": "data/db/C_Level.ini",
@@ -1452,7 +1452,7 @@
     },
     {
       "path": "ride/texture/EP25901.dds",
-      "hash": "be3700a84b9c2f01fbee893f6e2d4b9e6532afdff5d34604ca63a1934b3f3769",
+      "hash": "a50e4a65094761a7f0b1046bfe50e921d917749b15ef0d4a8a99437006c62d89",
       "size": 2097280
     },
     {
