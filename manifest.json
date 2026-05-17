@@ -1,11 +1,6 @@
 {
   "files": [
     {
-      "path": "d3d9.dll",
-      "hash": "0349923a6618f2383451c170a0f24d9c8f328392179aca71826a853655982405",
-      "size": 4452366
-    },
-    {
       "path": "data/db/BoundInfo.ini",
       "hash": "2e64e0b581ab101b11aff53dbfdb589ae32b5bc9655e24f535c037b8537d5e6b",
       "size": 349296
@@ -1374,16 +1369,6 @@
       "path": "data/Translate_PT/T_VIP.ini",
       "hash": "a36e0f79479c70e8c609914ec3f3003fb3501ae99b5c1ba8e2d68296d63664a4",
       "size": 287
-    },
-    {
-      "path": "dxgi.dll",
-      "hash": "1bba04c9941aeded96d9ee2dc7841d41b2d1369680b98cf9e60f5fe61c17f648",
-      "size": 3137550
-    },
-    {
-      "path": "dxvk.conf",
-      "hash": "458941696cee427f1184455ec8bac4b79b8c4b9b2922c3bfa2b285ce9c96b6b0",
-      "size": 698
     },
     {
       "path": "item/texture/W52601.dds",
