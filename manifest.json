@@ -87,8 +87,8 @@
     },
     {
       "path": "data/db/C_DropItem.ini",
-      "hash": "6e7ee8928264bb4b45d6951d298e9573ed37692d5f88057a4734cfb3dbca8574",
-      "size": 3698260
+      "hash": "fafd100619947d09bcf1f7110abfbe442be86d746e129b91779cd7d88bdd061b",
+      "size": 3698502
     },
     {
       "path": "data/db/C_DynamicEvent.ini",
@@ -182,8 +182,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "d3a31d302f1c93cb0652479fa283869996b422733e8ef12b2bda3eb5edf8ccc9",
-      "size": 5688950
+      "hash": "d6a37a589998586e329c9890a2c5826be658cfd8a2917bddc3bf8f59eaafbb22",
+      "size": 5688787
     },
     {
       "path": "data/db/C_Enchantfuncional.ini",
@@ -192,8 +192,8 @@
     },
     {
       "path": "data/db/C_EquipSet.ini",
-      "hash": "1b3c09a72d90b7a00ab526649d593ec532470a50dec14ba01ce3c35c6bc3f4a9",
-      "size": 73665
+      "hash": "a51db87c9e775711c0286cedbc027ecd49679bfdf80b08bb5e3e48584716bceb",
+      "size": 79856
     },
     {
       "path": "data/db/C_Equip_Train.ini",
@@ -237,8 +237,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "f0863c4e6d8b89f387a059e5e9780fe0cce41aa6e7671d76020abc75a89c6f95",
-      "size": 8983527
+      "hash": "fe890eba902cc9e3ac308ca700a29dd1133305deb5accb9ea0354b2d78df1fd5",
+      "size": 8983513
     },
     {
       "path": "data/db/C_ItemCombo.ini",
