@@ -1416,6 +1416,91 @@
       "size": 122910
     },
     {
+      "path": "map/texture/uc001-1.dds",
+      "hash": "9a74837e3dd0ba689d3091f62c1b20c63f8aab75fa73ad8430c39b8a2649cc63",
+      "size": 32896
+    },
+    {
+      "path": "map/texture/uc001.dds",
+      "hash": "18a8ed8e847f1bc3890e18fd4572347bce1b23cc44ffe6b13a161a26c30c369f",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/UE6020101.dds",
+      "hash": "369d729f60f11355ad011e5cd5f1cdc7c7960387c955f4cfa455a36b7f36a213",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/UX50109.dds",
+      "hash": "b721bc5dcfe93b2f4a5ba6133eb6670ec10dd106c09a01d1d01b176541f29065",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/UX51211.dds",
+      "hash": "ed7b2e3a110ff64d157a43634636f6f0aefa1202d961f35ae9fdef9410e52c46",
+      "size": 262272
+    },
+    {
+      "path": "map/texture/UX523.DDS",
+      "hash": "0d62dadd2751773439276085606e6cfde96e9f336592f65e6bb797ac0f7c606e",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00101.dds",
+      "hash": "eea157dc0005ab74bb46c34610020eadfc62c8425617783b03f25b782495f9df",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00103.dds",
+      "hash": "891c15947b20d36bf968ff152b15b00bcb636cd8daa00dc91ca34dbc79a70a71",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00201.dds",
+      "hash": "f5c0a592441b87cd627bf256efbb25090cddc61ec4b5ce736d22434376afeda1",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00202.dds",
+      "hash": "102debdbebf897ff729207e95e610c28cf38277bfa1b5202fa821e0b38bdd81a",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00204.dds",
+      "hash": "f5c0a592441b87cd627bf256efbb25090cddc61ec4b5ce736d22434376afeda1",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00205.dds",
+      "hash": "eea157dc0005ab74bb46c34610020eadfc62c8425617783b03f25b782495f9df",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00301.dds",
+      "hash": "1c24ebac07f265b2bbab2dc28a44f23dd0761e52bd6eb5a64267c2b97208d706",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XA00302.dds",
+      "hash": "db6875cccde773d28c88639a0c5857a5912791e726c3d7513786c98bb9ddd056",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XB50102.dds",
+      "hash": "f80f1beffc5f6753d6abe17c4942a9c97ba480cd1dd873caf8974b7c6e147414",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XB50104.dds",
+      "hash": "edf6f3c82e4b644425db7f065d10703191c936334e504373f91e625e96febce9",
+      "size": 131200
+    },
+    {
+      "path": "map/texture/XE64802.dds",
+      "hash": "728190a4beb989bde466531d44d7c306277f61546153297e31fe7ea7dbc6aaf4",
+      "size": 131200
+    },
+    {
       "path": "ride/animation/EP259.kf",
       "hash": "9dacd50d81c9a193cc75ce021a8757b9648a300e3ad8e57bd59d7aa8fb129398",
       "size": 4659748
