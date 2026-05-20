@@ -182,8 +182,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "d3a31d302f1c93cb0652479fa283869996b422733e8ef12b2bda3eb5edf8ccc9",
-      "size": 5688950
+      "hash": "e9d7ab8adfbb3d771b6f84fdf4f63dcc91bfe7c873d4ff94fd79b3d8542685bb",
+      "size": 5688914
     },
     {
       "path": "data/db/C_Enchantfuncional.ini",
@@ -237,8 +237,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "fe890eba902cc9e3ac308ca700a29dd1133305deb5accb9ea0354b2d78df1fd5",
-      "size": 8983513
+      "hash": "6635b2f5a20ca5abbff89a21b174f241dfb6252aae3b635698f8637423a70955",
+      "size": 8984090
     },
     {
       "path": "data/db/C_ItemCombo.ini",
@@ -1282,8 +1282,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "ac0ae1a4f718a0be619ea490029935c1487c7799629253da1c0cdba12aca7c24",
-      "size": 5974482
+      "hash": "b030132267ff70921764ce7bdee4c371a662f16395acda372b119cce53b97de5",
+      "size": 5981549
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
