@@ -72,8 +72,8 @@
     },
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "f479cb10b4d5999baf4e69b676e9165f9f894bfd56bd555cf02d8862db85a12f",
-      "size": 499925
+      "hash": "13a983cb8795260e6f52d8271cb81f85e15745648e9471afd2d720007e39bf3e",
+      "size": 513368
     },
     {
       "path": "data/db/C_DailyAwards.ini",
@@ -407,8 +407,8 @@
     },
     {
       "path": "data/db/C_Spell.ini",
-      "hash": "7c166bd6ad43cdc84cdaf73bd9fe56497e5e9638fe0785654c98eaa2b78b4e6b",
-      "size": 3154001
+      "hash": "99cad349035ecc18e315facc1c6aed85151b92b0a459e74f7f12320cf9750dde",
+      "size": 2699136
     },
     {
       "path": "data/db/C_StarAvenue.ini",
