@@ -627,13 +627,13 @@
     },
     {
       "path": "data/db/C_Classes.ini",
-      "hash": "df3faa70c8854f8c72306e5e031a7bed122ccbf7d1c7fa8b2f6c882583784a3c",
+      "hash": "2b4deeebee4df06fe1c3962f13c679714b6ca97c9cb322b36a1ebf849594a939",
       "size": 734
     },
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "13a983cb8795260e6f52d8271cb81f85e15745648e9471afd2d720007e39bf3e",
-      "size": 513368
+      "hash": "dc1d89b6ac577261deccc2a0e3c6e66a99ed2f06feab20c5009462526292697d",
+      "size": 499987
     },
     {
       "path": "data/db/C_DailyAwards.ini",
@@ -647,8 +647,8 @@
     },
     {
       "path": "data/db/C_DropItem.ini",
-      "hash": "51da63c403ceddadf3283b8875da0d9233805af99473558496f18330b5495e5e",
-      "size": 3705870
+      "hash": "0e9338fb20a46be18be1fcfe0f93eb3d4f4fc57c07a5e7244706577f5b4545e5",
+      "size": 3698871
     },
     {
       "path": "data/db/C_DynamicEvent.ini",
@@ -752,8 +752,8 @@
     },
     {
       "path": "data/db/C_EquipSet.ini",
-      "hash": "a51db87c9e775711c0286cedbc027ecd49679bfdf80b08bb5e3e48584716bceb",
-      "size": 79856
+      "hash": "e22fcec3b113d88cf580e3cb87e30d8a13ae38cecc1681f2e7b426c4a38c727f",
+      "size": 79038
     },
     {
       "path": "data/db/C_Equip_Train.ini",
@@ -797,8 +797,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "3b412fb1268680fd80aa9179ae466a63923e1d1a36e4eab9136336926789da5a",
-      "size": 8984285
+      "hash": "4dfa73bdf893d4f5ea9bab7ea990c13f51e565d6c6607d5eee1db4312ebdf41a",
+      "size": 8984271
     },
     {
       "path": "data/db/C_ItemCombo.ini",
@@ -807,13 +807,13 @@
     },
     {
       "path": "data/db/C_ItemExchange.ini",
-      "hash": "960a5b819d0a51b4071eab745260f58cd01d368204729096cc7cfdf728d8464b",
-      "size": 244586
+      "hash": "4fb9ac634af1cdcd2cade50673f3897a2a802a8d75fc1bf663a843067720c1dd",
+      "size": 242094
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "9c351d15a8dffbb00e5ef91ae6b56f2ed6fe2178e19022ee97db1051f08604a1",
-      "size": 5629927
+      "hash": "b416a4befc9e3973afe327a3066ec4c974073b413d89c70524618eb5ab0733e2",
+      "size": 5629936
     },
     {
       "path": "data/db/C_Level.ini",
@@ -847,8 +847,8 @@
     },
     {
       "path": "data/db/C_Mission.ini",
-      "hash": "2d4f5ae7a4841314961c38b4a7e353474e4f273ad5b86ca1462400037df7ff8c",
-      "size": 1558605
+      "hash": "8e484c609165a30597544448dc9709e35095f003fa0c090c076763ba0d645b18",
+      "size": 1553025
     },
     {
       "path": "data/db/C_Monster.ini",
@@ -952,8 +952,8 @@
     },
     {
       "path": "data/db/C_Schedule.ini",
-      "hash": "6a30d47badc5f3f172775fdf46c9813d2b81ff1d27103afd15b13e2a2f652d42",
-      "size": 743
+      "hash": "ad65cc0a835ee03555d3a61affd88eab46985dd9cf348f590f66fd27bb90036f",
+      "size": 720
     },
     {
       "path": "data/db/C_SpaceTraveler.ini",
@@ -1062,8 +1062,8 @@
     },
     {
       "path": "data/db/Equip.ini",
-      "hash": "f8c6529f458d4302466ca672a1831856a5bd9606aab8f78ecef3dc3b6d10c1ad",
-      "size": 343801
+      "hash": "d829408fefd6011b712692dde1efb4a719bcd7bda9601f19ff6f712f3ffb7e23",
+      "size": 343927
     },
     {
       "path": "data/db/lic1.ini",
@@ -1132,8 +1132,8 @@
     },
     {
       "path": "data/db/SuitEquip.ini",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0
+      "hash": "120b3f6431f3fe2208986587264eef7a8e6ca2b02eff434dc6fa927c8e88a851",
+      "size": 179121
     },
     {
       "path": "data/db/vssver2.scc",
