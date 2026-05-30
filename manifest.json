@@ -1586,11 +1586,6 @@
       "size": 331
     },
     {
-      "path": "Launcher - Grand Fantasia Raizes.exe",
-      "hash": "2c9deec3232d50cb7c86a287e67e8e6de75f48e3a1fae656c0e75740a908ed4a",
-      "size": 31681536
-    },
-    {
       "path": "map/model/S274/S274.area",
       "hash": "9d738c01eabf0eb9eaed8fafd1b5434f3596dfc7a0192df6caed5a514346d890",
       "size": 13
@@ -1704,6 +1699,11 @@
       "path": "map/texture/XE64802.dds",
       "hash": "728190a4beb989bde466531d44d7c306277f61546153297e31fe7ea7dbc6aaf4",
       "size": 131200
+    },
+    {
+      "path": "NovoLauncher - Grand Fantasia Raizes.exe",
+      "hash": "2c9deec3232d50cb7c86a287e67e8e6de75f48e3a1fae656c0e75740a908ed4a",
+      "size": 31681536
     },
     {
       "path": "ride/animation/EP259.kf",
