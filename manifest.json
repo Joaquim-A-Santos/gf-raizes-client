@@ -1146,6 +1146,11 @@
       "size": 87099
     },
     {
+      "path": "data/db.zip",
+      "hash": "4a6e3467bba9bc56447349998099d14cc0d668274a532689fb09f656b79edde0",
+      "size": 11900524
+    },
+    {
       "path": "data/scene/S100.ini",
       "hash": "c119ef4317130fd547da1cd61334137d0de80557ac08c02125cf81ccd9dd301e",
       "size": 23243
