@@ -1356,6 +1356,11 @@
       "size": 287
     },
     {
+      "path": "grand-fantasia-raizes.exe",
+      "hash": "5eeac1ea7df51097318023b4c360d97242d0531e7fb56ec3e763c69dce3bfcfa",
+      "size": 31714304
+    },
+    {
       "path": "item/animation/W348.kf",
       "hash": "331cb649b68ff164b7e0f4ab82a269563735ce85effb55ae8cb4f52903ce3854",
       "size": 123742
@@ -1702,8 +1707,8 @@
     },
     {
       "path": "patch.json",
-      "hash": "857dfbe7a9732b2fc732c5d05cd728403c5dd5d72f020c1cf3c78fa7ef0ed957",
-      "size": 858
+      "hash": "a139f17cf3fef3567723164a0954b933e418f717fab03349c0cd77749c3b6a00",
+      "size": 842
     },
     {
       "path": "ride/animation/EP259.kf",
