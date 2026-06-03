@@ -822,8 +822,8 @@
     },
     {
       "path": "data/db/C_Level.ini",
-      "hash": "d6ce0b81df6777cb6142c910661e39d090870b3d4bd31e61edbfe55c125313db",
-      "size": 28873
+      "hash": "18e2df1ac74140c6af9e8ffdb9c7af66dd526520c7c5674c27f6a0c5ecd96630",
+      "size": 28862
     },
     {
       "path": "data/db/C_LuckyBar.ini",
@@ -1152,8 +1152,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "89a527af3433659cf4af1bd889a629712439bd65d33570188222e6e316aa8054",
-      "size": 11900806
+      "hash": "caf75b9cde250b995591d5f5a9d469e2036a3d786d24f231196145098567d7ea",
+      "size": 11900835
     },
     {
       "path": "data/scene/S100.ini",
