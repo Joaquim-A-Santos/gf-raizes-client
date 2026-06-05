@@ -637,8 +637,8 @@
     },
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "62cc939f495b5a0873fdabbefd307e3c74a3ca4e563aac8cbea928a2aab0e0f7",
-      "size": 513558
+      "hash": "4aa926674f1cb3e90c97a98133d4959bf047c5a842691b5ddee171aa136c3f82",
+      "size": 513752
     },
     {
       "path": "data/db/C_DailyAwards.ini",
@@ -802,8 +802,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "4dfa73bdf893d4f5ea9bab7ea990c13f51e565d6c6607d5eee1db4312ebdf41a",
-      "size": 8984271
+      "hash": "2fcb5bfdedeaea5935da7129b205cae0062391a0bb1a43dad95f5d592f78695c",
+      "size": 8984297
     },
     {
       "path": "data/db/C_ItemCombo.ini",
@@ -817,8 +817,8 @@
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "bb501258987e71ab3cbf3999f32a3764a63b97f4ae656e479dc2d95d9f9b027b",
-      "size": 5629935
+      "hash": "9f48cc4fd4e2490bca720b20f916530e2ccc050bc93799bb51dfdd55c05739ac",
+      "size": 5629926
     },
     {
       "path": "data/db/C_Level.ini",
@@ -1152,8 +1152,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "b1858ac6fa75dec326f94b16d76b4ddcac132a94f3d0d000fa610327b30e1ceb",
-      "size": 11900347
+      "hash": "19aeaea2877bb5327275940af3c75fda61264f1bd9a07daa9b440be541ed57f6",
+      "size": 11900405
     },
     {
       "path": "data/scene/S100.ini",
