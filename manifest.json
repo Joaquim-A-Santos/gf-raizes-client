@@ -567,8 +567,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "699f95e78940e01ee5eace36135e3c0b8a1988ccd05dab018ee20043bbf49bb4",
-      "size": 11900535
+      "hash": "f9b7b2e79eb484d2ef2834f441f7ef1b57c19401a796875a40b7293af4562dfc",
+      "size": 11901962
     },
     {
       "path": "data/scene/S100.ini",
@@ -1247,8 +1247,8 @@
     },
     {
       "path": "data/Translate_PT/T_Enchant.ini",
-      "hash": "86cf35e3794d68efa44a02c85e83262ed00672506f19f5be72a268f65de04ea8",
-      "size": 4039946
+      "hash": "62cd651fe17f0dc5d671d38e83dbe5958b126e83d5acc14bf6413b36192a5a86",
+      "size": 4042178
     },
     {
       "path": "data/Translate_PT/T_EquipSet.ini",
@@ -1272,8 +1272,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "465b67bcd49b5b2bddad601f5663972c50b31032e2578b4822d9503420309e1a",
-      "size": 5981725
+      "hash": "16832781fd627251ac00727b2a5b522f87736f920a4aec18b0739765a5b657d5",
+      "size": 5985730
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
@@ -1282,8 +1282,8 @@
     },
     {
       "path": "data/Translate_PT/T_ItemMall.ini",
-      "hash": "ce0c7ba4fe8a1fb71de027e7448ebc9010d624bc0027bd3bb2a5b58236265168",
-      "size": 3457468
+      "hash": "f437805b426c76a96c10627a368f1c1cd19e207a0f62a624d68bd5e1e53ba639",
+      "size": 3463041
     },
     {
       "path": "data/Translate_PT/T_MentorshipInstance.ini",
