@@ -986,9 +986,649 @@
       "size": 524416
     },
     {
-      "path": "UI.zip",
-      "hash": "50c1d864b348ce7352a4e3e67cd069cc30f124079064ee908f8c8c8362bb4207",
-      "size": 567244
+      "path": "UI/UI/itemicon/A107636.dds",
+      "hash": "5ebd7316069508a3bf906d8dc3cbbe65ba8522deb8663f5236c12b3f9396844c",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A107638.dds",
+      "hash": "a5bdef8411fd75a912cf98fbe05ce1f1496184ee1d877ae3466333b2187c16fb",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A107643.dds",
+      "hash": "56281ab51edae6bae7f5cda6129a7aadbc1fa31b128eb10267e5a62a6a0a05fb",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A11489.dds",
+      "hash": "0559f29b4ae76af981ab6e82bf345e695fde0ab7e00b1e345c3ef3e95307a819",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11490.dds",
+      "hash": "1a74815f2fc395ff98597d7176c2108bbc4b822ea4316478e477f35186752b31",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11513.dds",
+      "hash": "b8a32b9a4dd7441a4de57342fec55080199cb77f5190ad26565112d43ba2ccd6",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11515.dds",
+      "hash": "da5d31b4157752cefb2d54ee861bcbbaac8d2d4b93f66f4bdd47064d1a08c467",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11516.dds",
+      "hash": "68d361f7baeb5adaa70de6273e1e7c53f910287ea27d765031b143116e2faf6b",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11517.dds",
+      "hash": "bfa31bce4dc9a7ccedec66e2575669c47262b0d3bf84f71fd7b986eaf905f2ad",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11529.dds",
+      "hash": "3c8cc18a5aa034db4aee1105f751fcde9750279743a3f8aa3ee4915d481fb949",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11532.dds",
+      "hash": "ebcdc3eb071b333244b54d40dbf8ca1cf5db8038d9c4057bdd5610ff6bedec87",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11533.dds",
+      "hash": "c0b10e67faaae2d92035ffd795e417bf2f52a81cbd308202ffb3882e9ea9b41b",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11541.dds",
+      "hash": "e84f556773d0990e35af42fc5470c28bcb299526788db7815d86dab5a398f26c",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11542.dds",
+      "hash": "3886773d3c199abf9b7ead1c66733513e5c53f6ef93c22c2a47ee93b2de3fd5a",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11543.dds",
+      "hash": "cdb1d8f5065e9715f0aa4de59914631cbc49765c6f9b5848832fc331e46833df",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11544.dds",
+      "hash": "ff740f56e796f78e819f1866206a48d4492a6c37a459e0aa38c45b62f7c7083a",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11545.dds",
+      "hash": "7584b28a37e3b607480976117ff671f3cb9e1b8afa8c80ad3b73005028d36251",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11547.dds",
+      "hash": "353d5dc244addbd53d3ef2276a89b7b1861586dacb179f1824af94b24d833bb9",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11548.dds",
+      "hash": "a628ed4d265960527acd71d3691742df0c48ed36a4dacde2adf5fb5f503139d4",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11549.dds",
+      "hash": "9636671f441babf220c98d32ea49667176923e588abc1359956d9e06a9aa8bd1",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11550.dds",
+      "hash": "39ce683b195254770bcdd61e35717eaee97cbcdddb21061666f38ae081004c40",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11551.dds",
+      "hash": "9e4bd6595125a34dee99ea4cf8621c6ed600e1efff1b4fbd74f19410c09098f7",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11552.dds",
+      "hash": "43c7e1139b5189a2a295f5dc7574fbf02d60e329df3bbcf4621ffa9c2882646b",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11553.dds",
+      "hash": "3fc76e6af4773dfeda8e0a072bd5768a8e9ac45c5a62ea305c4e55d7ecd19753",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11554.dds",
+      "hash": "2b184708607b7c9cf8e30fb8762597f198c3cd35b9f8bd173bcef355705cf64d",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11555.dds",
+      "hash": "309b477bd989ea11f0e8f86165eebe4ea6936aeccdd90278d004f4ca2fac5b27",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11556.dds",
+      "hash": "c46642f6fd74f39bcd5ea854d18bd753eb5b4f7ff22208b5703b5d8e4957243a",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11557.dds",
+      "hash": "6988d052b4b900a44816106399b30f7751e74024d7a3c0fe87b8261af1cf9abc",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11558.dds",
+      "hash": "4379f4666b06bec0930a344d2e489c61677788063e309994a6ff5691e382e159",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11559.dds",
+      "hash": "5ef467bdf33b2eed9f3d5950dd02d21eddc5b4b8e367acc6a7c8f722ec358458",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11560.dds",
+      "hash": "8b4d25f95e11e5086361ea64788b2cd226631d2619db51c74d76d0949dac94a8",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11568.dds",
+      "hash": "9ae1f64d2433ab23eba4d82d998024cb66da53b4f0abf5ea6a0c4641cc30b4c2",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11570.dds",
+      "hash": "f4e893e9f58941af2cae4654c30994b63195b5fd71770130541aad79b0273661",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11571.dds",
+      "hash": "d15b523849264bae506ca8e2ea7a8a94adac87b06407fb4df0726d2774819652",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11572.dds",
+      "hash": "bc1aecd54be8a767bc2ade249342750bcc14ddee8817b36c0727e29e117c178e",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11573.dds",
+      "hash": "ab8e6c0ee905ca45434e0fe434fedd971b9ecdca628a2c12853caf629eb5728a",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11574.dds",
+      "hash": "faef7129ce88a589528e1112b37f3991b7b131db47a27ddbda71cf2182636d68",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11575.dds",
+      "hash": "82fb786fc8a1553dc7825df15a7b3b963458e77c144713007e8679dc5de7d999",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11576.dds",
+      "hash": "281b184b107848c291cb8e2d7df8120091afd3661e938ed9be7105feb39d9a1e",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11577.dds",
+      "hash": "5e9feb11ee15e342ab72df4e93b6befe1edf92d6846463727ff7bf9cc634f44a",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11578.dds",
+      "hash": "3a262e864bfd23cdc29053f3d8a27fb341fffb75f1dde99dca7cd890c82a4611",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11579.dds",
+      "hash": "1fa0aaeb2287c5421c71232089090adec48e734dc1908b0e8e45f76c5d6212e2",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11583.dds",
+      "hash": "828dc0e0cbbc34373f18316043541c3df02497f1b30b6d7f3828113c0fb8b7de",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A11584.dds",
+      "hash": "51012ca59a8e70f3e1d0749687c517e36a41021f9efea3e724a6d3349f52eca9",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/A203565.dds",
+      "hash": "0c71b8e863eb55668b53534a69994d312a6d1ad9b8ac7be5a2c2968050dc19c5",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A203695.dds",
+      "hash": "1c3b60153cef7bc5e17c7259d8d4834bec0c5a219a5e4c3a1c3ee9a54bbb8d24",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A207625.dds",
+      "hash": "b396f13b3c4bf123e1776f3f7020399fcbc93fa7c9734a590acb101974e447ab",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A212035.dds",
+      "hash": "0d0acf3970c4e71f6d79726feef1c80fd03827f991c87a4f7fbd5c36c5ec20d3",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60515.dds",
+      "hash": "c89dc6bef0de6db3f835290366be6fefc5a09bd73807be956dd4a4365cf5ae24",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60516.dds",
+      "hash": "31385f0944f3516ac609c26b55661f6cc8934e46ec0fbd0f5ce4945a42814b42",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60517.dds",
+      "hash": "5dc87b7cc97214c5832d45b21bc568ccd644744063f26052e738b6da207944a1",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60518.dds",
+      "hash": "75bae314b26a33157911843ce37d56607da998be8fc00046870e0abf9fe8b9ae",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60519.dds",
+      "hash": "b9804102ce497c6d6c895aab3d87f72f18e577bf427dae61481d8d13a986ab69",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60520.dds",
+      "hash": "8a8ab913acdf3653351b8013af09d355968c20bc11baadebe3ad2143c7f5a9a3",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60521.dds",
+      "hash": "92c8de42df310b564d49f2e2f14ea17983784edb34566d7a2b7a5d554761d7d8",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60522.dds",
+      "hash": "b933f167fc17e606cd18a9a87ed27f3da98329adc73a2f2ea2c1aa0565287239",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60523.dds",
+      "hash": "9d19a23a69b207725d0584628c878a56d8bfaf796f8d32f4517b16cab9c3909d",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60524.dds",
+      "hash": "bf529bfc370860455102b4fabffe39a09d0e5434491314447e2c274df9af6da0",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60525.dds",
+      "hash": "35e819fb7b5680f7589abc71f0bd0251ffbe1ec65973dfc18f1ca59001077f2b",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60526.dds",
+      "hash": "431bb8a424e7d4e78b1fc8f42f207e196069cdb9ab37b2d151385132459b5db5",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60527.dds",
+      "hash": "e408093dae05f045cee91ef2c86adced4b54999c40a6deb0f7074e5d77c77ddd",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60528.dds",
+      "hash": "7b490f532e7f613ef753441241be27e41fe8e4e153cfb7b19ea2c70e928748e3",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60529.dds",
+      "hash": "9dea0cd68182fdaf5ace6a063e7277f9fc6c63e71d05ad0870846a78bcfe2b2b",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60530.dds",
+      "hash": "1dfa8aea078286ff162561d1f5a4af93ea76dd7b7cb455cfbb6c5fc0763236e5",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60531.dds",
+      "hash": "0706a9f6c04af14857855175caa522de9a2f0752e5fd128b42609d91f63788c6",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60532.dds",
+      "hash": "b864ff8f1531c926a7b3bb39909772b2000aeb4cd8874f29246cbbe2ffe7b6f0",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60533.dds",
+      "hash": "e3e7a95098a00fc3edcd23650c1d7234ff1d5eedeaa4362a6c668a569bef74b5",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60534.dds",
+      "hash": "38ada2d03512e020943e5d4e303b46c46a1469572145a1c1b41772fed303b359",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60535.dds",
+      "hash": "f00046f362f968ec3f95189ca86b00cb435818f007e33e69bb6ea307b2d5f443",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60536.dds",
+      "hash": "b08d313d124b763cfc114e2f73296d146a9604be8a5bb02820837a25ff527478",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60537.dds",
+      "hash": "df43a9f553a360bd299a003a03d474726c7eea4b7c1a761e2043b6e3a9964a66",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60538.dds",
+      "hash": "9414002d113f2f0863cdb0746d0a638155c800aae51251bc99bf72e1790f5452",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60539.dds",
+      "hash": "b8cab9300d2cf4082c7621aae4233f2651c2b3e7b0070e55e204cc418729db6d",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60540.dds",
+      "hash": "71059532c702890d0a95c9cb371d9ddd5c2619a2962b9f82b0803a5ae689f17f",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60541.dds",
+      "hash": "e5ec2efd1984345da7eae7379d58a3a5148885ae338f93dc467736c5f0fbb9b4",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60542.dds",
+      "hash": "3314fa85a452440ecd5cc133442f76d227449eaac0a577e62234d614affc541b",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60543.dds",
+      "hash": "130338212ba0bd386e4f74e2fbc65cdd320d36ff1ca29f89d985f3a39d651183",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60544.dds",
+      "hash": "d63357003f5c01ca5322d3f8276ad1edf03533f70adb49492e13fe8b3095e12e",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60545.dds",
+      "hash": "14c08d9cc2470f8b2f807d86c1be4a4b22ed7eb69fb899b9c74ab3a6c73a2075",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60546.dds",
+      "hash": "6d48f4433bfc21bc5c1c36d69595b94716dedb1dcd00f7c950e7fa5468e72944",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60547.dds",
+      "hash": "bbe2acf13f2506e8198eb835d2247a62fa935a57c9bc121a00bc23a3bb33e0ae",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60548.dds",
+      "hash": "0a2e9c3475534d6c59c2704d85a843a5879bdc24ec52ce3bb6246a1cf437e098",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60549.dds",
+      "hash": "1837e051eda3292f4c813fa8c5a6336b9197dc10fca3f294183cf9db723a1128",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60550.dds",
+      "hash": "6314a9e4b9ef0ac5d6013fdecca874a776d533867d8472a870f9d9062a3237b9",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60551.dds",
+      "hash": "0abf6979e7f6da0ac4b4e85979285a78f6d5a10dd33a02eae8556bf00398ad5f",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60552.dds",
+      "hash": "8242854f5a878893c907f06433b36bac58b2243625d739585c27709dd8a1c1ed",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60553.dds",
+      "hash": "f28af839ae124fc4d7ebab75ac01a0d21af8cd80988ed0402c5d6bdaa1972b57",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/A60554.dds",
+      "hash": "07fcdfc1cdba1b457a58cbc6874d968f00e1145cbee2cdc86f587b049b40d36e",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/I0265744.dds",
+      "hash": "db2b9c400b579d8e265d3b27b25f75a7e24b8cd67807e8389c957f8b18dd7458",
+      "size": 5588
+    },
+    {
+      "path": "UI/UI/itemicon/itemicon.dds",
+      "hash": "494c3a1c4046e64a46bef98d3597ceefa994b4f3ef61bd4d6e5c4db4a4c08034",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/re0002.dds",
+      "hash": "a71f8435859ac0da4b6d44534576aab1ac7a2a77869a0885e6f2fd0a308d28e3",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/re0003.dds",
+      "hash": "6caa9567cafa2d3e25ed9955d12ddfc86801fa9902f2331e5907f9b4e7475c87",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/re0004.dds",
+      "hash": "6caa9567cafa2d3e25ed9955d12ddfc86801fa9902f2331e5907f9b4e7475c87",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0001.dds",
+      "hash": "ac29f8d054379ae5dd9036a010100ca4ff2bf00fbbfd9843d76d131769b4fd75",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0002.dds",
+      "hash": "aa6e6083e472fcaa967d2c7af657862fdf052fe2386927c158f0276037850e9a",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0003.dds",
+      "hash": "25605ee0692d95a8f7fdf1a5127a82144a36411d58d1a7a40227c3dfa74bfcd0",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0004.dds",
+      "hash": "242c8eb06d51e399efe7f40e4dcfd17ca1e7fd741f72b6685da629433f18b3c0",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0005.dds",
+      "hash": "4aac4ed15c80e7befc05fd14a1cd82f7b341a22196f574f718e075dee20d2c61",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0006.dds",
+      "hash": "8edc78609c1d820eaf8b62caf6dee7767c70d7b02fe7b47bbfd7a43fdec75be3",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/RM0007.dds",
+      "hash": "e70b5d154fed17426c46933526fca4eab2a44e2f95326ac066311519aa4d0b94",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/itemicon/W34801.dds",
+      "hash": "df874b7e2f47dde5bc733f6cce8f25340acf2942a28f493d253b466405eee806",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W36601.dds",
+      "hash": "8fc518fd2754eff112f54c9e8a8944113790b8da7cb0fea6a863dcd390853b6a",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W37501.dds",
+      "hash": "d8a75fedc257709e1770c204a531e41746b3167bf5670aecf98138ab5678e040",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W37801.dds",
+      "hash": "300e0cf3e1bfb03a466261343e663f7f2b0b59b29a7e9a23644dd01ed5e9cfd6",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W38001.dds",
+      "hash": "57f85db2322f7ce6ea3bd6cafcb2182971d8c3b0af4211c935dd57bfcfd6f4b9",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W39101.dds",
+      "hash": "219ca7dc496aa831297a2724b4a8dfaeda6fe4342859c01ec0df593cd53d56f2",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W39301.dds",
+      "hash": "c963ce4a67ebb0d858251488f53fe2f3789e213453f263364cc91d1e96e3f406",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W39901.dds",
+      "hash": "b9d07956571798e499acffbd007d27d502496782bfbcfe87b7a7b35e042e85f6",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/W48101.dds",
+      "hash": "f07edc478906458e519a013ff8aebceaf680b3bc9ec0884789a2cc9a95beb88c",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/WA6002.dds",
+      "hash": "0edabc71800aba71a6c402cf3d1dc88b18ac2b0ce960e30ea4334616369d3647",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/WF9001.dds",
+      "hash": "2eec859993dda42b1a7fcf9bee944313c120c3e27ab402a51f1dee1d66bfd6f4",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/WF9701.dds",
+      "hash": "7925c7e873f4cd0205e19f59cd416b10e8ef7123dd201cd125736b31eafe2d50",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/WG9902.dds",
+      "hash": "d16304c6b5a2f518de4d91e1d08598bf556d614df5b337a86221d69f09afbcf9",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/itemicon/WG9903.dds",
+      "hash": "2a2808988e9abc8ae6b8ac0a6617c80f14bad5dab25c45d9556a4f74f34085b4",
+      "size": 4224
+    },
+    {
+      "path": "UI/UI/map/S274m.dds",
+      "hash": "ae4fa787b23756aa43bb5914ec3357299223eafbfc17d5685bb5d3bd1f181a23",
+      "size": 262272
+    },
+    {
+      "path": "UI/UI/map/S274s.dds",
+      "hash": "93d29f5d955ccad971931fc6ad1cb09ef7ea53f54f7719dbdbf76a8e6ae56e16",
+      "size": 524416
+    },
+    {
+      "path": "UI/UI/skillicon/re0002.dds",
+      "hash": "a71f8435859ac0da4b6d44534576aab1ac7a2a77869a0885e6f2fd0a308d28e3",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/skillicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/uiicon/F0164.dds",
+      "hash": "f916d5d7fea54026927f70be8efd3c6545d897029a6bc25493575b7492932328",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/uiicon/map001.dds",
+      "hash": "8e152d2f66205b399cfb57aafc556c454a297d3314b0c61acb232c482efa3d51",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/uiicon/map002.dds",
+      "hash": "f427c2eae1cb7aa67804599586d54b41e5eda142a12199e4aa5ace0caee240e7",
+      "size": 256
+    },
+    {
+      "path": "UI/UI/uiicon/map005.dds",
+      "hash": "6387fc442314f3f6463adbe1d076e34bc3366941bd1f8809e139a28bcd86de43",
+      "size": 256
+    },
+    {
+      "path": "UI/UI/uiicon/map015.dds",
+      "hash": "7c4e78e015ec8fa5d0cf9d9c247a3f329cf23b51c20230561d9fc12d045cee58",
+      "size": 256
+    },
+    {
+      "path": "UI/UI/uiicon/map024.dds",
+      "hash": "8dc220770e081d1bfca10829b31ae1ba3eba82a2825963badadf48ed85de797f",
+      "size": 256
+    },
+    {
+      "path": "UI/UI/uiicon/map028.dds",
+      "hash": "6387fc442314f3f6463adbe1d076e34bc3366941bd1f8809e139a28bcd86de43",
+      "size": 256
+    },
+    {
+      "path": "UI/UI/uiicon/map032.dds",
+      "hash": "5ad5d576906d33e914a4dde0e9b9f118bc20abaf87c401c9f935a0618af1671c",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/uiicon/map034.dds",
+      "hash": "f9f62da383b279783ba68a77b66ed27604375222847e428a2869813a43b3f0e6",
+      "size": 640
+    },
+    {
+      "path": "UI/UI/uiicon/mission05.dds",
+      "hash": "8836f4d3d0a96c55a0954e8a934dc7975225a97092a88b0d6e5aeca12383dbc9",
+      "size": 2176
+    },
+    {
+      "path": "UI/UI/uiicon/ZG6402.dds",
+      "hash": "f01a498e78e98e769aad08522a6495daaaa501fa4d0233aa9679df7cf294ec12",
+      "size": 640
     }
   ]
 }
