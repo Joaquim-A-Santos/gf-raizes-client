@@ -576,11 +576,6 @@
       "size": 9514
     },
     {
-      "path": "data/scenes/S102.ini",
-      "hash": "e90793138a348e0d816c368d23b6e4017c9e495566c0d4b9483ab40cfc841eb0",
-      "size": 12173
-    },
-    {
       "path": "data/Translate_EN/T_Achievement.ini",
       "hash": "062d079ac5e5d8ecf60d2f96787d6d01470e7689eb18ae9d0b07fc29b7d5c6e1",
       "size": 466050
@@ -1267,8 +1262,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "16832781fd627251ac00727b2a5b522f87736f920a4aec18b0739765a5b657d5",
-      "size": 5985730
+      "hash": "d9b0c15eb2e4474835a6a4d0cdc1f2df79cd43c39134deb7b8a0692c8767d56e",
+      "size": 5999932
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
