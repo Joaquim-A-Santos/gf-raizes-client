@@ -562,13 +562,13 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "3b4ea3ae86fc7c6dca5cd24f44fa11793acb6f6a56915d4a27e5fdc29f9ccbee",
-      "size": 12056103
+      "hash": "3977f8aaf05a2ee59c24cb8114cc00a86d804e61c8a2141d065d2ee85e2c4459",
+      "size": 12059559
     },
     {
       "path": "data/scene/S100.ini",
-      "hash": "c119ef4317130fd547da1cd61334137d0de80557ac08c02125cf81ccd9dd301e",
-      "size": 23243
+      "hash": "df8636f4a5990c5c83bd7819f0c377b2fd9efa8a463a1f6495712182fdd40e76",
+      "size": 23519
     },
     {
       "path": "data/scene/S274.ini",
@@ -1177,8 +1177,8 @@
     },
     {
       "path": "data/Translate_PT/T_Dialogue.ini",
-      "hash": "2707db62244d215e73df6e84c454c89e2d8e582fef04f22ea01828c16bafdd63",
-      "size": 9711013
+      "hash": "3b9b950415e18d754059e8c423b86ac0712542124a3dd54aa671ae6100b9490d",
+      "size": 9715203
     },
     {
       "path": "data/Translate_PT/T_DynamicEvent.ini",
@@ -1237,8 +1237,8 @@
     },
     {
       "path": "data/Translate_PT/T_Enchant.ini",
-      "hash": "62cd651fe17f0dc5d671d38e83dbe5958b126e83d5acc14bf6413b36192a5a86",
-      "size": 4042178
+      "hash": "dabc7404acde6cd5bf4e5a7b5c7d33d7c068ae4c4ed5215859a36282296a9f8f",
+      "size": 4042423
     },
     {
       "path": "data/Translate_PT/T_EquipSet.ini",
@@ -1262,8 +1262,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "d9b0c15eb2e4474835a6a4d0cdc1f2df79cd43c39134deb7b8a0692c8767d56e",
-      "size": 5999932
+      "hash": "95a60b15c4f41f2868c6af16f49e14c4da98bbaa35c4a3b9c5ec456d4d3db6a0",
+      "size": 6001396
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
@@ -1282,8 +1282,8 @@
     },
     {
       "path": "data/Translate_PT/T_Mission.ini",
-      "hash": "9c25fb24d48789aa4774979468a82bfdc83ba058f5e921185fc49a41045db191",
-      "size": 314787
+      "hash": "a3072551a8dba68106c2d7a371ac9b0928443beceba0c28a9f74cc7df45feb6e",
+      "size": 314954
     },
     {
       "path": "data/Translate_PT/T_Monster.ini",
@@ -1342,8 +1342,8 @@
     },
     {
       "path": "data/Translate_PT/T_Title.ini",
-      "hash": "833ebe21cca6db54674211020b1b308b95745bc836cf4736174359fc60201ca6",
-      "size": 99503
+      "hash": "fec273e09c31a024824cf0f5a5eb7838afec09549b9e1bc32a7e4e6fec863a66",
+      "size": 99587
     },
     {
       "path": "data/Translate_PT/T_VIP.ini",
@@ -1697,8 +1697,8 @@
     },
     {
       "path": "patch.json",
-      "hash": "9050451ec5d02efe1080a9d93956f8253a948aa9338cf3dab863dbaa3e6dff9f",
-      "size": 1033
+      "hash": "036dd2fc26cde60539d1d2cc74806e1cb69ed141c3d499f912521cc05109e425",
+      "size": 1184
     },
     {
       "path": "ride/animation/EP259.kf",

@@ -1,27 +1,28 @@
 {
   "badge": "Notas da Atualizacao",
-  "title": "Sistema de Cartas e Evento x3",
-  "summary": "Foi adicionado o novo Sistema de Cartas, realizados ajustes nas Pedras de Fama e ativado o evento de EXP e Drop x3 para todos os jogadores.",
+  "title": "Evento de 1 Ano GF Raizes",
+  "summary": "O Grand Fantasia Raizes completa 1 ano! Para celebrar essa data especial, foi iniciado o evento comemorativo com novos acessórios, um título exclusivo e uma nova escala disponível para todos os jogadores.",
   "highlights": [
     {
-      "kicker": "Sistema",
-      "title": "Sistema de Cartas Disponivel",
-      "text": "Adicionado o Sistema de Cartas através do NPC Olsen, localizado em Prado da Ilha Prisma nas coordenadas X: 139 Y: 193."
-    },
-    {
-      "kicker": "Ajuste",
-      "title": "Pedras de Fama",
-      "text": "As Pedras de Fama foram ajustadas para conceder 50.000 pontos de fama por utilização."
-    },
-    {
-      "kicker": "Ajuste",
-      "title": "Agrupamento de Itens",
-      "text": "O limite de agrupamento das pedras foi ajustado para 250 unidades por pilha."
-    },
-    {
       "kicker": "Evento",
-      "title": "EXP e Drop x3",
-      "text": "O evento especial de EXP x3 e Drop x3 foi ativado, aproveite para evoluir seus personagens e obter mais recompensas."
+      "title": "1 Ano GF Raizes",
+      "text": "O evento oficial de 1 Ano do Grand Fantasia Raizes já está disponível. Participe das comemorações e aproveite os conteúdos exclusivos preparados para esta ocasião."
+    },
+    {
+      "kicker": "Novidade",
+      "title": "Novos Acessorios",
+      "text": "Foram adicionados novos acessórios exclusivos do evento, trazendo ainda mais opções de personalização para seu personagem."
+    },
+    {
+      "kicker": "Exclusivo",
+      "title": "Novo Titulo",
+      "text": "Um novo título comemorativo foi adicionado e poderá ser obtido durante o evento de aniversário."
+    },
+    {
+      "kicker": "Conteudo",
+      "title": "Nova Escala",
+      "text": "Uma nova escala foi disponibilizada, oferecendo novos desafios e recompensas para todos os aventureiros."
     }
   ]
 }
+
