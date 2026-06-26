@@ -2206,6 +2206,26 @@
       "size": 5588
     },
     {
+      "path": "UI/itemicon/I02732.dds",
+      "hash": "ccb2a9dab316a1bd753c10293bd65257c3067a183c1b130c643a6a94e0dc4859",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/I02740.dds",
+      "hash": "83052bc0f4fe0a467652f31128fabe051a2779ae6920bd67221f587ba662816f",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/I02749.dds",
+      "hash": "fd9deafd0a6c1cc78c8d2023f1a79cd032a43a3a54be03d4cd43659d92121715",
+      "size": 640
+    },
+    {
+      "path": "UI/itemicon/I02757.dds",
+      "hash": "bf2e5075d995d90653adbc34478c4c09dca2d3198ac5bf48c193d00a502f03f6",
+      "size": 640
+    },
+    {
       "path": "UI/itemicon/itemicon.dds",
       "hash": "494c3a1c4046e64a46bef98d3597ceefa994b4f3ef61bd4d6e5c4db4a4c08034",
       "size": 640
