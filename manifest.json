@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "2535861a24a300d2d5845a3768f50f37d809dcfa4541b933b0910013e0d06823",
-      "size": 12056060
+      "hash": "3b4ea3ae86fc7c6dca5cd24f44fa11793acb6f6a56915d4a27e5fdc29f9ccbee",
+      "size": 12056103
     },
     {
       "path": "data/scene/S100.ini",
@@ -1272,8 +1272,8 @@
     },
     {
       "path": "data/Translate_PT/T_ItemMall.ini",
-      "hash": "f437805b426c76a96c10627a368f1c1cd19e207a0f62a624d68bd5e1e53ba639",
-      "size": 3463041
+      "hash": "209d87e7ff931634f607e14fb5bf078a676f6b71759acbac8004855de2c64894",
+      "size": 3463233
     },
     {
       "path": "data/Translate_PT/T_MentorshipInstance.ini",
