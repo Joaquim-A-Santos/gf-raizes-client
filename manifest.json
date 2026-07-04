@@ -562,18 +562,23 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "e07e6348bdcd13a52c0ceb44df7470f8ef39ef26c6b6b4888a45a9b6cef99162",
-      "size": 12061259
+      "hash": "45524ce1e3af7810f3cf5a6fc32bcfd1d494930744d37bea958f8623d9f4c2da",
+      "size": 10799548
     },
     {
       "path": "data/scene/S100.ini",
-      "hash": "df8636f4a5990c5c83bd7819f0c377b2fd9efa8a463a1f6495712182fdd40e76",
-      "size": 23519
+      "hash": "4b5282d2138b310d2c6a72af8e0d2a33efe458cb68828b51c6c5718d1b20212a",
+      "size": 23572
     },
     {
       "path": "data/scene/S274.ini",
       "hash": "8c6b2c5f2970ba6850f57a45c33e04ee2749e58017f3b1cefb0d1182c1f971ee",
       "size": 9514
+    },
+    {
+      "path": "data/scene/S610.ini",
+      "hash": "631bcfe5ceb367d43aa53bebc321937cebcc6ec2fbdd08ce6e996eec58586141",
+      "size": 7384
     },
     {
       "path": "data/Translate_EN/T_Achievement.ini",
@@ -1177,8 +1182,8 @@
     },
     {
       "path": "data/Translate_PT/T_Dialogue.ini",
-      "hash": "3b9b950415e18d754059e8c423b86ac0712542124a3dd54aa671ae6100b9490d",
-      "size": 9715203
+      "hash": "f6821b93e6c082270c3eac1085dc531e8bbfe8c2483f7b1998a5a8be764dff75",
+      "size": 9720804
     },
     {
       "path": "data/Translate_PT/T_DynamicEvent.ini",
@@ -1237,8 +1242,8 @@
     },
     {
       "path": "data/Translate_PT/T_Enchant.ini",
-      "hash": "dabc7404acde6cd5bf4e5a7b5c7d33d7c068ae4c4ed5215859a36282296a9f8f",
-      "size": 4042423
+      "hash": "d33c80f62bfa9ee408190ec39ef5eee5b2fac37e52c3d5a2d8ad8508cf5b3e18",
+      "size": 4045745
     },
     {
       "path": "data/Translate_PT/T_EquipSet.ini",
@@ -1262,8 +1267,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "95a60b15c4f41f2868c6af16f49e14c4da98bbaa35c4a3b9c5ec456d4d3db6a0",
-      "size": 6001396
+      "hash": "51b1e7e545bef5341437b3aef520b9fb0fecefa9df9f203b39c065da71c578f4",
+      "size": 6002183
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
@@ -1272,8 +1277,8 @@
     },
     {
       "path": "data/Translate_PT/T_ItemMall.ini",
-      "hash": "209d87e7ff931634f607e14fb5bf078a676f6b71759acbac8004855de2c64894",
-      "size": 3463233
+      "hash": "b8edd8a50a1962214e123d0dbdba8d1522fabab571cb60d70775d206e6022976",
+      "size": 3469471
     },
     {
       "path": "data/Translate_PT/T_MentorshipInstance.ini",
@@ -1282,8 +1287,8 @@
     },
     {
       "path": "data/Translate_PT/T_Mission.ini",
-      "hash": "a3072551a8dba68106c2d7a371ac9b0928443beceba0c28a9f74cc7df45feb6e",
-      "size": 314954
+      "hash": "3f164081bff0ff98bec5f982b882cbf932f4330b3ec901f95545a57ad71e4d6a",
+      "size": 315131
     },
     {
       "path": "data/Translate_PT/T_Monster.ini",
@@ -1302,8 +1307,8 @@
     },
     {
       "path": "data/Translate_PT/T_PointAbility.ini",
-      "hash": "f33cd92f9a87af6eca837772bcfdd23c6438a0fbb5ef2b4050c9b677d0997202",
-      "size": 194
+      "hash": "7d88f00a91d04d069c6aa65202f22a03bb25ee3b26ec99f0ff48a37465a623bb",
+      "size": 243
     },
     {
       "path": "data/Translate_PT/T_Race.ini",
