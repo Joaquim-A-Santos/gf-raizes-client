@@ -22,16 +22,6 @@
       "kicker": "Jogabilidade",
       "title": "Combate Aprimorado",
       "text": "Agora é possível atacar inimigos à curta distância utilizando armas de longo alcance, proporcionando mais liberdade durante os combates."
-    },
-    {
-      "kicker": "Correcao",
-      "title": "Bot Sprite",
-      "text": "Foi corrigido um problema relacionado à missão do Bot Sprite, garantindo seu funcionamento correto."
-    },
-    {
-      "kicker": "Conteudo",
-      "title": "Legados Expandidos",
-      "text": "Os Legados das novas classes também foram adicionados à missão de nível 65, completando a progressão de Prime e Samurai."
     }
   ]
 }
