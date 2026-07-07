@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "45524ce1e3af7810f3cf5a6fc32bcfd1d494930744d37bea958f8623d9f4c2da",
-      "size": 10799548
+      "hash": "b98e718e019086bff07444e24d69ea37b718a38c58e6ac0015ff16c00c49bc35",
+      "size": 10805032
     },
     {
       "path": "data/scene/S100.ini",
@@ -1267,8 +1267,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "51b1e7e545bef5341437b3aef520b9fb0fecefa9df9f203b39c065da71c578f4",
-      "size": 6002183
+      "hash": "970a1fd7618905539db7d04e6ef6f244c53cb752e965adba2109fadd5300b90e",
+      "size": 6050078
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
@@ -1702,8 +1702,8 @@
     },
     {
       "path": "patch.json",
-      "hash": "036dd2fc26cde60539d1d2cc74806e1cb69ed141c3d499f912521cc05109e425",
-      "size": 1184
+      "hash": "b551c7b4acf864ac23e943da06db1176d553a4ac30247d43320b1f5f90f95554",
+      "size": 1752
     },
     {
       "path": "ride/animation/EP259.kf",

@@ -1,28 +1,37 @@
 {
   "badge": "Notas da Atualizacao",
-  "title": "Evento de 1 Ano GF Raizes",
-  "summary": "O Grand Fantasia Raizes completa 1 ano! Para celebrar essa data especial, foi iniciado o evento comemorativo com novos acessórios, um título exclusivo e uma nova escala disponível para todos os jogadores.",
+  "title": "Novas Classes e Ajustes de Progressao",
+  "summary": "Esta atualização traz a chegada das novas classes Prime e Samurai, melhorias na progressão inicial, novos equipamentos de recompensa, correções de missões e ajustes importantes na jogabilidade.",
   "highlights": [
     {
-      "kicker": "Evento",
-      "title": "1 Ano GF Raizes",
-      "text": "O evento oficial de 1 Ano do Grand Fantasia Raizes já está disponível. Participe das comemorações e aproveite os conteúdos exclusivos preparados para esta ocasião."
-    },
-    {
       "kicker": "Novidade",
-      "title": "Novos Acessorios",
-      "text": "Foram adicionados novos acessórios exclusivos do evento, trazendo ainda mais opções de personalização para seu personagem."
+      "title": "Novas Classes Disponiveis",
+      "text": "As novas classes Prime e Samurai foram adicionadas ao servidor e já podem ser utilizadas pelos jogadores."
     },
     {
-      "kicker": "Exclusivo",
-      "title": "Novo Titulo",
-      "text": "Um novo título comemorativo foi adicionado e poderá ser obtido durante o evento de aniversário."
+      "kicker": "Recompensas",
+      "title": "Melhorias nas Quests",
+      "text": "As missões de troca de classe e de nível 31 agora concedem Legados e Caixas de Armas Semi Lendárias para Prime e Samurai. Além disso, a Caixa de Pedras de Skill Aplicadas também foi adicionada às recompensas."
+    },
+    {
+      "kicker": "Balanceamento",
+      "title": "Progressao Ajustada",
+      "text": "As Armas Semi Lendárias de Prime e Samurai tiveram seu nível reduzido de 50 para 31, permitindo uma evolução mais fluida durante a progressão inicial."
+    },
+    {
+      "kicker": "Jogabilidade",
+      "title": "Combate Aprimorado",
+      "text": "Agora é possível atacar inimigos à curta distância utilizando armas de longo alcance, proporcionando mais liberdade durante os combates."
+    },
+    {
+      "kicker": "Correcao",
+      "title": "Bot Sprite",
+      "text": "Foi corrigido um problema relacionado à missão do Bot Sprite, garantindo seu funcionamento correto."
     },
     {
       "kicker": "Conteudo",
-      "title": "Nova Escala",
-      "text": "Uma nova escala foi disponibilizada, oferecendo novos desafios e recompensas para todos os aventureiros."
+      "title": "Legados Expandidos",
+      "text": "Os Legados das novas classes também foram adicionados à missão de nível 65, completando a progressão de Prime e Samurai."
     }
   ]
 }
-
