@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "b98e718e019086bff07444e24d69ea37b718a38c58e6ac0015ff16c00c49bc35",
-      "size": 10805032
+      "hash": "f6217805ac1b916f6b10ab0f6215a3eca2a6c94cfe4fdd83b311dd89ace1d827",
+      "size": 10801559
     },
     {
       "path": "data/scene/S100.ini",
@@ -1242,13 +1242,13 @@
     },
     {
       "path": "data/Translate_PT/T_Enchant.ini",
-      "hash": "d33c80f62bfa9ee408190ec39ef5eee5b2fac37e52c3d5a2d8ad8508cf5b3e18",
-      "size": 4045745
+      "hash": "ac0856f1eead84a95232ec7f6a69dd889fbf39e675881ab027eeecd42b0a7e98",
+      "size": 4046079
     },
     {
       "path": "data/Translate_PT/T_EquipSet.ini",
-      "hash": "c15461dea7668b1cc1bf66fc62263ab1d06071cd4839a8cf702c7479d8229381",
-      "size": 22952
+      "hash": "e727cdbcf0eaef2157a6a13a6abbea5ec07ea6cad178c000efb1a3402770d09e",
+      "size": 23068
     },
     {
       "path": "data/Translate_PT/T_Exam.ini",
@@ -1267,8 +1267,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "970a1fd7618905539db7d04e6ef6f244c53cb752e965adba2109fadd5300b90e",
-      "size": 6050078
+      "hash": "b38517f4380d61e8a99189e0ca02f58fae28575adda51ac03fd781060c47dfcb",
+      "size": 6053032
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
@@ -1337,8 +1337,8 @@
     },
     {
       "path": "data/Translate_PT/T_Spell.ini",
-      "hash": "188320b2de297e34ab3f1eedfd2bdd430ceebf79b8838654e04a8c3bdd3377d6",
-      "size": 1837618
+      "hash": "b3bb87ace463457bfa3892e38324486ea10411c00f6a4bd078676d06204d4702",
+      "size": 1837563
     },
     {
       "path": "data/Translate_PT/T_TextIndex.ini",
