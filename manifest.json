@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "f6217805ac1b916f6b10ab0f6215a3eca2a6c94cfe4fdd83b311dd89ace1d827",
-      "size": 10801559
+      "hash": "86f0367bb2eb43cfeec5a51cf41271feaea402a0938a15bd18ab7c387cc9e47e",
+      "size": 11208233
     },
     {
       "path": "data/scene/S100.ini",
@@ -1267,8 +1267,8 @@
     },
     {
       "path": "data/Translate_PT/T_Item.ini",
-      "hash": "b38517f4380d61e8a99189e0ca02f58fae28575adda51ac03fd781060c47dfcb",
-      "size": 6053032
+      "hash": "26515d7e424983b63c3a5e28f7b3f38113786240600e2b70aeb353f163ac2dd4",
+      "size": 6057397
     },
     {
       "path": "data/Translate_PT/T_ItemCombo.ini",
