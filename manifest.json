@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "69a7152232227b91498cbd9f29f2788a124457ff778b05b24b45cc3e492e7a7b",
-      "size": 11207217
+      "hash": "dcc68e9cff0a6e859d6cfed77e4509b907257bb5a3e4288744ba7b33bbf4d17b",
+      "size": 11207216
     },
     {
       "path": "data/scene/S100.ini",
@@ -1702,8 +1702,8 @@
     },
     {
       "path": "patch.json",
-      "hash": "a77d77335c9b9fe88f38391ba8689d1297ba086e09a93102cdf9aa24aded0ba2",
-      "size": 1344
+      "hash": "92e9beb6a87d04f1b42f7a7fd257e1cbd467f237933f6d769c0fe2d2a65ca80c",
+      "size": 1274
     },
     {
       "path": "ride/animation/EP259.kf",
