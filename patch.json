@@ -1,27 +1,22 @@
 {
-  "badge": "Notas da Atualizacao",
-  "title": "Novas Classes e Ajustes de Progressao",
-  "summary": "Esta atualização traz a chegada das novas classes Prime e Samurai, melhorias na progressão inicial, novos equipamentos de recompensa, correções de missões e ajustes importantes na jogabilidade.",
+  "badge": "Notas da Atualização",
+  "title": "Level 80, PvP das Novas Classes e Novos Equipamentos",
+  "summary": "O conteúdo Level 80 chegou ao Grand Fantasia Raízes com novos equipamentos PvP, acessórios inéditos, melhorias para as novas classes e novos desafios.",
   "highlights": [
     {
-      "kicker": "Novidade",
-      "title": "Level 80",
-      "text": "A partir do dia 24/07/2026 o level 80 está liberado."
+      "kicker": "PvP",
+      "title": "Novas Classes Preparadas",
+      "text": "Os Sets PvP Level 2 de Prime, Samurai, Augure e Time Controller foram adicionados. As armas PvP foram ajustadas para o Level 80 e os combos de talentos estão totalmente funcionais."
     },
     {
-      "kicker": "Recompensas",
-      "title": "Melhorias nas Quests",
-      "text": "As missões de troca de classe e de nível 31 agora concedem Legados e Caixas de Armas Semi Lendárias para Prime e Samurai. Além disso, a Caixa de Pedras de Skill Aplicadas também foi adicionada às recompensas."
+      "kicker": "Equipamentos",
+      "title": "Acessórios e Collections",
+      "text": "Novos acessórios PvP Level 80 já estão disponíveis no NPC Raízes, acompanhados de novas Collections e cinco novos Núcleos para evolução."
     },
     {
-      "kicker": "Balanceamento",
-      "title": "Progressao Ajustada",
-      "text": "As Armas Semi Lendárias de Prime e Samurai tiveram seu nível reduzido de 50 para 31, permitindo uma evolução mais fluida durante a progressão inicial."
-    },
-    {
-      "kicker": "Jogabilidade",
-      "title": "Combate Aprimorado",
-      "text": "Agora é possível atacar inimigos à curta distância utilizando armas de longo alcance, proporcionando mais liberdade durante os combates."
+      "kicker": "Conteúdo",
+      "title": "Nova Progressão",
+      "text": "A DG Marinheiro está liberada para o Level 80 e a nova Escala chega na quinta-feira com Chapéu e Roupa de Coleta (-180s) e novas recompensas."
     }
   ]
 }

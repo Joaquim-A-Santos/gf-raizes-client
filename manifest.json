@@ -562,8 +562,8 @@
     },
     {
       "path": "data/db.zip",
-      "hash": "dcc68e9cff0a6e859d6cfed77e4509b907257bb5a3e4288744ba7b33bbf4d17b",
-      "size": 11207216
+      "hash": "700c1e8614e8c75b6f9559b0dce2ca9a953e9d17aa1485c2bb4fe4a565ba12a8",
+      "size": 10806262
     },
     {
       "path": "data/scene/S100.ini",
@@ -1242,8 +1242,8 @@
     },
     {
       "path": "data/Translate_PT/T_Enchant.ini",
-      "hash": "ac0856f1eead84a95232ec7f6a69dd889fbf39e675881ab027eeecd42b0a7e98",
-      "size": 4046079
+      "hash": "44b6a9507d7549e6f2cb3b7b57904c683611e352c270530d4db28525598280c3",
+      "size": 4046289
     },
     {
       "path": "data/Translate_PT/T_EquipSet.ini",
@@ -1277,8 +1277,8 @@
     },
     {
       "path": "data/Translate_PT/T_ItemMall.ini",
-      "hash": "b8edd8a50a1962214e123d0dbdba8d1522fabab571cb60d70775d206e6022976",
-      "size": 3469471
+      "hash": "b20182b730f5d20a801b185d5794f0176e17a555df439e1c05dac4e38fb3ed7e",
+      "size": 3469883
     },
     {
       "path": "data/Translate_PT/T_MentorshipInstance.ini",
@@ -1702,8 +1702,8 @@
     },
     {
       "path": "patch.json",
-      "hash": "92e9beb6a87d04f1b42f7a7fd257e1cbd467f237933f6d769c0fe2d2a65ca80c",
-      "size": 1274
+      "hash": "dfcb7bde21fca39196be1272285b1d6389fccbb662f4827d08bad4bb7821c52b",
+      "size": 1063
     },
     {
       "path": "ride/animation/EP259.kf",
