@@ -742,7 +742,7 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "8ddcf5acc99abf0b4e200ab375a6b65888f2fbb64108a6c076420164f3f2813c",
+      "hash": "be7dbfdf8cefbce0579a60fb48d8ea0364aefcf72f7e6ab30be15ae5eb4921b8",
       "size": 5631484
     },
     {
@@ -842,7 +842,7 @@
     },
     {
       "path": "data/db/C_Mission.ini",
-      "hash": "a31a7c8765b0990fe5aaab538c35a95cf0cbaad6417af10aca5f0f26116a4383",
+      "hash": "5bbfbb4bbad07ae2c95cb17d2dcdf209591e8a950e51547b2ca48a4b6195c45f",
       "size": 1555734
     },
     {
@@ -867,8 +867,8 @@
     },
     {
       "path": "data/db/C_Npc.ini",
-      "hash": "67a66f0f85237d5872f5d6f8dd3e4058f6f9aa7924566fbcdc114820a169af7e",
-      "size": 857621
+      "hash": "a792d8c40d452ff649ad9fdb3217c793e238f86fcc0767cb6a020b8c773ed2e1",
+      "size": 857573
     },
     {
       "path": "data/db/C_Paladin.ini",
@@ -962,8 +962,8 @@
     },
     {
       "path": "data/db/C_Spell.ini",
-      "hash": "b3127f36874e4fd73c211e670e251707009ceef8cba34bc58fe81cab2d6e8ca9",
-      "size": 3114391
+      "hash": "dd7e40402c4b11b2273a42e5749abb8a11c82b00c206686da5efb19d2965aee5",
+      "size": 3114389
     },
     {
       "path": "data/db/C_StarAvenue.ini",
