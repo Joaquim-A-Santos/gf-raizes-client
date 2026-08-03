@@ -632,8 +632,8 @@
     },
     {
       "path": "data/db/C_Collection.ini",
-      "hash": "8f1ff45879cdb949d0ddbbc2b1e4d1be7c28b9824d7d83489756a076970b7662",
-      "size": 502307
+      "hash": "d5f73b1ec9723d0d109b26512d73e16f4a31c3aab5053aca619d7bfd43c80ec1",
+      "size": 508086
     },
     {
       "path": "data/db/C_DailyAwards.ini",
@@ -642,8 +642,8 @@
     },
     {
       "path": "data/db/C_Dialogue.ini",
-      "hash": "cc2a315691ec97f3b0e1120fd512db27a1f2ee8426ef15ddc8e1d0edf61eee57",
-      "size": 9292032
+      "hash": "5e4aa5d975571176422fc06ae649f8697629d07085e7a9af4a9d490d1e312071",
+      "size": 9292821
     },
     {
       "path": "data/db/C_DropItem.ini",
@@ -742,8 +742,8 @@
     },
     {
       "path": "data/db/C_Enchant.ini",
-      "hash": "be7dbfdf8cefbce0579a60fb48d8ea0364aefcf72f7e6ab30be15ae5eb4921b8",
-      "size": 5631484
+      "hash": "dafd1a5d4e348a3d0a0b4a5646e2b1425fc44bce611b0e1805eee3605bbe004e",
+      "size": 5631562
     },
     {
       "path": "data/db/C_EquipSet.ini",
@@ -792,8 +792,8 @@
     },
     {
       "path": "data/db/C_Item.ini",
-      "hash": "5adf3660c3d8d5f419a960fe68db8fd7c413986e2e748c1530a2488b38ba791a",
-      "size": 9043936
+      "hash": "4a6a1eeff9694deb73c7c94b1a827843a51c17cf32177398e3cf8c0983dd0464",
+      "size": 9044877
     },
     {
       "path": "data/db/C_ItemCombo.ini",
@@ -802,13 +802,13 @@
     },
     {
       "path": "data/db/C_ItemExchange.ini",
-      "hash": "30b6cab938fe11fc6ee31967600ffd024d857ffae9039c53eb28021039404a2a",
-      "size": 247744
+      "hash": "e480c1310164fabf01848ebd832882f59a6dc8d77f06e717c25bc94fdbb00c7b",
+      "size": 254476
     },
     {
       "path": "data/db/C_ItemMall.ini",
-      "hash": "0e9fca0380c72a8bc0ff2509524fc80ca6eb199762e5750b9b76b31e2bf43055",
-      "size": 5635794
+      "hash": "b01c71e1417035c3947d0441e4573477a5fba201467e9e74e3bbbe2ccf386eb7",
+      "size": 5636123
     },
     {
       "path": "data/db/C_Level.ini",
@@ -842,8 +842,8 @@
     },
     {
       "path": "data/db/C_Mission.ini",
-      "hash": "5bbfbb4bbad07ae2c95cb17d2dcdf209591e8a950e51547b2ca48a4b6195c45f",
-      "size": 1555734
+      "hash": "2afd70d022d4d0529e145565e3950047cb595caa34ddf35b05d939f6a7a101a9",
+      "size": 1555910
     },
     {
       "path": "data/db/C_Monster.ini",
@@ -982,8 +982,8 @@
     },
     {
       "path": "data/db/C_Store.ini",
-      "hash": "28d675ccf02096019c372ac84609ad416f123108a93f5eed23c886c04a046212",
-      "size": 268795
+      "hash": "e655016147b4c24734dc194aa033d8ee2309e4bdfed3955ffa95afd2fe0f8119",
+      "size": 268829
     },
     {
       "path": "data/db/C_SysSetup.ini",
