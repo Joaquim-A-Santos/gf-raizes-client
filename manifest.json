@@ -747,8 +747,8 @@
     },
     {
       "path": "data/db/C_EquipSet.ini",
-      "hash": "a3a0d4015a9aa653b5281eecf2b3d5752cb7ce9c9951b442057ce301a4841f03",
-      "size": 84177
+      "hash": "c50686c8a15679d6bca7bc7a767ac36dac51127d8910ab6d50e0b8c1df3fd1de",
+      "size": 88229
     },
     {
       "path": "data/db/C_Equip_Train.ini",
@@ -1822,8 +1822,8 @@
     },
     {
       "path": "data/Translate_PT/T_EquipSet.ini",
-      "hash": "e727cdbcf0eaef2157a6a13a6abbea5ec07ea6cad178c000efb1a3402770d09e",
-      "size": 23068
+      "hash": "068a09a3caad9b086b167fafa7a54a6a5e04a8cb62956c01af2b7e411336acf3",
+      "size": 23600
     },
     {
       "path": "data/Translate_PT/T_Exam.ini",
